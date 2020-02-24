@@ -1,0 +1,563 @@
+,Age Sort , Query Text ,FINAL DIAGNOSIS,Specialty,Sex_female,Sex_male,Pregnancy_not pregnant,Pregnancy_pregnant,Region_Carribean,Region_North America,Region_West Africa,Common / Uncommon_C,Common / Uncommon_U,Acuity Level - Low / Medium / High_High,Acuity Level - Low / Medium / High_Low,Acuity Level - Low / Medium / High_Medium,Red Flag?_n,Red Flag?_y,specialty_numeric
+0,4,"severe leg pain,vomiting,fever,mottled skin",Sepsis and Shock,INFECT,0,1,0,0,0,1,0,1,0,0,1,0,0,1,10
+1,8,"headache,word finding difficulties,parietial and frontal masses",Brain Neoplasms,NEOPL,0,1,0,0,0,1,0,0,1,0,1,0,0,1,12
+2,7,"breathing problem,migraine,weight loss,arm and shoulder pain",Lung Neoplasms,NEOPL,1,0,0,0,0,1,0,0,1,0,1,0,0,1,12
+3,6,"leg cut,intense pain,vomiting",Necrotising Fasciitis,INFECT,1,0,1,0,0,1,0,0,1,0,0,1,0,1,10
+4,8,"headache,blurred vision",Giant Cell Arteritis,RHEUM,1,0,1,0,0,1,0,0,1,0,0,1,0,1,20
+5,6,"dizziness,fainting,positive ecg",Long QT,CARDIO,1,0,1,0,0,1,0,0,1,0,1,0,1,0,1
+6,7,"swelling of the legs,general feeling of ill health,smoker,carpel tunnel syndrome,lethargy,swelling of the hands or feet,irritability",Hypothroidism,ENDO,0,1,0,0,0,1,0,1,0,0,0,1,1,0,4
+7,6,"fatigue,swollen gums",Leukemia,NEOPL,1,0,1,0,0,1,0,0,1,0,0,1,0,1,12
+8,4,"increased heart rate,fever,sore on left side, chickenpox",Group A Streptococcus,INFECT,0,1,0,0,0,1,0,0,1,0,0,1,0,1,10
+9,6,"sweats,abdominal pain,apprehension,palpations,hypertension",Adrenal Neoplasms,NEOPL,1,0,0,1,0,1,0,0,1,0,0,1,0,1,12
+10,10,"swallowing problem,coughing,chest pain resting",Esophageal Neoplasms,NEOPL,0,1,0,0,0,1,0,0,1,0,0,1,0,1,12
+11,6,"dizziness,nausea,vomiting,fever,stiff neck",CNS TB & TB Meningitis,INFECT,1,0,1,0,0,1,0,0,1,0,1,0,1,0,10
+12,8,"arm and shoulder weakness,malaise,sob,hemoptysis,upper left abdominal discomfort,fever,chronic cough,coughing up blood",Lung Neoplasms,NEOPL,1,0,1,0,0,1,0,0,1,0,0,1,0,1,12
+13,5,"proteinuria,hematuria,fever,sore throat,flank pain",IGA Neuropathy,NEPHRO,0,1,0,0,0,1,0,0,1,0,0,1,1,0,13
+14,9,"foot pain,swollen and erythematous toe,lower limb cellulitis",Necrotising Fasciitis,INFECT,1,0,1,0,0,1,0,0,1,1,0,0,0,1,10
+15,9,"weight loss,diarrhea,uncontrollable vomiting",Celiac Disease,GASTRO,0,1,0,0,0,1,0,0,1,0,0,1,1,0,5
+16,3,"rash,fever,neck pain,lymph node enlargement,sore throat,roof of mouth and throat swelling",Tularemia,INFECT,1,0,0,0,0,1,0,0,1,0,0,1,1,0,10
+17,7,"recurring throat and ear pain,facial pain,foreign body sensation,difficulty swallowing",Eagle Syndrome,EAR,0,1,0,0,0,1,0,0,1,1,0,0,1,0,3
+18,10,"shuffling gait,unsteady gait,bowel incontinence,bladder incontinence,unable to walk in a straight line,unable to read,unable to converse,short sentence responses",Normal Pressure Hydrocephalus,NEURO,0,1,0,0,0,1,0,0,1,0,0,1,1,0,14
+19,6,"severe pain in right leg,elevated heart rate,high platelet count",Necrotising Fasciitis,INFECT,1,0,1,0,0,1,0,0,1,0,0,1,0,1,10
+20,6,"severe arm pain,fever,nausea",Necrotising Fasciitis,INFECT,1,0,1,0,0,1,0,0,1,0,0,1,0,1,10
+21,9,"polysubstance abuse,excessive caffeine,smoker,rapid speech,minimal eye contact,tapping feet,mild hypertension,homeless,tachycardia,anxiety",Thyroid Storm,NEOPL,0,1,0,0,0,1,0,0,1,1,0,0,0,1,12
+22,8,"exhaustion,memory loss,headaches,depression",Lyme Disease,INFECT,1,0,1,0,0,1,0,0,1,0,0,1,1,0,10
+23,7,"fever,cough,congestion,worsening shortness of breath,feeling unwell",Lung Abscess,RESP,1,0,1,0,0,1,0,0,1,0,1,0,0,1,19
+24,10,"acute abdominal pain,fever,constipation,nausea,vomiting",Intestinal Obstruction - large inflammatory mass,GASTRO,1,0,0,0,0,1,0,0,1,0,1,0,1,0,5
+25,8,"complete weakness , fatigue , unable to concentrate , bedridden , shortness of breath",Lyme Disease,INFECT,1,0,1,0,0,1,0,0,1,0,0,1,1,0,10
+26,8,"exhaustion , joint pain , insomnia , unable to concentrate",Lyme Disease,INFECT,1,0,1,0,0,1,0,0,1,0,0,1,1,0,10
+27,6,"fever , sore throat , runny nose , rash",Measles,INFECT,0,1,0,0,0,1,0,0,1,0,1,0,1,0,10
+28,7,"fatigue , muscle stiffness , joint pain , recurring headaches , unable to concentrate , pain unrelieved by analgesics , pain unrelieved by rest , difficulty sleeping , snores , pmh hyperlipidemia , obesity",Chronic Fatigue Syndrome ,NEURO,1,0,1,0,0,1,0,0,1,0,1,0,1,0,14
+29,5,"blisters in mouth , throat , blisters in genital area , blurry vision , fever",Steven-Johnson Syndrome,RHEUM,0,1,0,0,0,1,0,0,1,0,0,1,0,1,20
+30,9,"chronic dry cough , hemoptysis , chest pain , shortness of breath , dyspnea , lower back pain , enlarged supraventricular lymph nodes , wheezing , atelectasis , labored breathing , low grade fever , weight loss , secondhand smoke exposure",Lung Neoplasms,RESP,1,0,1,0,0,1,0,0,1,0,1,0,0,1,19
+31,10,"facial muscle pain,upper body muscle pain,extremities muscle pain,fatigue,mental fogging",Fibromyalgia,RHEUM,0,1,0,0,0,1,0,0,1,0,1,0,1,0,20
+32,4,"obsessive compulsive disorder,tics,separation anxiety,concentration trouble,memory problems",PANS,INFECT,0,1,0,0,0,1,0,0,1,0,0,1,1,0,10
+33,7,"muscle spasms,sweating,regurgitation of fluids,breathing difficulty,elevated blood pressure,rapid heart beat",Pheochromacytoma,ENDO,0,1,0,0,0,1,0,0,1,0,0,1,0,1,4
+34,10,"extreme chest pain , non stop coughing",Pulmonary Thromboembolism,RESP,0,1,0,0,0,1,0,0,1,0,1,0,0,1,19
+35,7,"chronic fatigue , joint pain , abdominal pain , irregular heartbeat , skin color changes , irregular menstrual cycles , loss of libido , impotence , hypogonadism , infertility , hair loss , bone density changes , depression , anxiety , muscle pain , brain fog , chronic diarrhea , high insulin or high blood sugar , enlarged liver or spleen , elevated liver function tests , chronic inflammatory disorders , headaches",Hemochromatosis ,HEMAT,1,0,1,0,0,1,0,0,1,0,1,0,1,0,7
+36,6,"bilateral flank pain , hematuria , shortness of breath , elevated alkaline phosphatase , low albumin level , elevated lactate dehydrogenase , elevated prothrombin time , pmh undescended testicles , bilateral lung masses , down syndrome",Testicular Neoplasms,UROL,0,1,0,0,0,1,0,0,1,0,1,0,1,0,25
+37,3,"diarrhea , hives",Celiac Disease,GASTRO,0,1,0,0,0,1,0,0,1,0,0,1,1,0,5
+38,5,"loss of vision , neck pain , headaches , unable to walk , eating problem",Chiari Malformation,NEURO,0,1,0,0,0,1,0,0,1,0,0,1,1,0,14
+39,3,"papular rash , pruritus on trunk , pruritus on hands , pruritus palms , pruritus soles of feet , faint excoriations , pruritus arms , possible mites infestation in hotel",Scabies,DERM,1,0,0,0,0,1,0,1,0,0,1,0,1,0,2
+40,5,"trouble sleeping , loss of appetite , sullen , alert , unable to concentrate , lost interest , fatigue",Major Depression,PSYCH,1,0,1,0,0,1,0,1,0,0,1,0,1,0,18
+41,2,"malnourished , skin appears wrinkled , tented , weight loss , cries when feeding , hypoxic , hypercalcemia , low normal phosphate , low alkaline phosphatase , irregular metaphyses , severe metaphyseal flaring , osteopenia , bilateral hydronephrosis , distended abdomen , choking spell , loss of appetite",Hypophosphatasia ,ORTHO,0,1,0,0,0,1,0,0,1,0,0,1,1,0,17
+42,8,"fatigue , heartburn , indigestion , sudden dizziness , troubled sleep , shortness of breath , unexplained anxiety , sweating , cough",Myocardial Infarction / Acute Coronary Syndrome,VASC,1,0,1,0,0,1,0,1,0,0,1,0,0,1,26
+43,9,"flushed skin , joint stiffness , joint pain , fever , feeling unwell , difficulty walking",Chikungunya,INFECT,0,1,0,0,1,0,0,0,1,0,0,1,1,0,10
+44,8,"multiple joint pain , hot spot on shin hurt to touch , unable to walk",Chikungunya ,INFECT,1,0,1,0,1,0,0,0,1,0,0,1,1,0,10
+45,9,"high fever , abdominal pain , back pain , jaundice , rash on legs , swollen extremities , exposure to fresh water",Leptospirosis ,INFECT,0,1,0,0,0,1,0,0,1,0,0,1,1,0,10
+46,9,"stomach pain , back pain , unexplained weight loss",Pancreatic Neoplasms ,NEOPL,1,0,1,0,0,1,0,0,1,0,1,0,1,0,12
+47,4,"mild motor clumsiness , loss of speech , communication difficulty",Syndromes of Electrographic Status Epilepticus in Sleep,NEURO,0,1,0,0,0,1,0,1,0,0,1,0,0,1,14
+48,7,"fatigued after exercise , flulike symptoms , sleeping difficulty , foggy thinking",Chronic Fatigue Syndrome ,NEURO,0,1,0,0,0,1,0,0,1,0,1,0,1,0,14
+49,9,"left sided weakness , headache , drowsiness , vomiting , fever , irritability , drowsy , altered mental status , neck rigidity",CNS TB & TB Meningitis ,INFECT,1,0,1,0,0,1,0,0,1,0,0,1,1,0,10
+50,6,"headache , fevers , night sweats , thrombocytopenia , elevated bilirubin , elevated creatinine",Malaria,INFECT,0,1,0,0,0,0,1,0,1,0,1,0,1,0,10
+51,9,"back pain , constipation , feeling unwell",Pancreatic Neoplasms,NEOPL,1,0,1,0,0,1,0,0,1,0,0,1,0,1,12
+52,2,"listless , pale , mottled skin , rash",Sepsis and Shock,INFECT,1,0,0,0,0,1,0,0,1,0,1,0,0,1,10
+53,6,"difficulty moving , painful lymph nodes , throat burning , recurring fever , hair loss , severe fatigue , difficulty concentrating , bleeding sores in mouth , throat , depression , suicidal ideation",Chronic Fatigue Syndrome ,NEURO,1,0,1,0,0,1,0,0,1,0,1,0,1,0,14
+54,6,"vaginal bleeding , vaginal discharge , back ache , stomach pain",Cervical Cancer,NEOPL,1,0,1,0,0,1,0,0,1,0,1,0,0,1,12
+55,5,"excessive sleepiness , dizziness on standing , tachycardia on exertion , fatigue",Postural Orthostatic Tachycardia Syndrome,CARDIO,1,0,1,0,0,1,0,0,1,0,1,0,1,0,1
+56,6,"multiple joint pain , increasing fatigue , worse with cold temperature , feet numbness , memory difficulty , trouble concentration , depression , trouble sleeping , multiple muscle pain",Fibromyalgia,RHEUM,1,0,1,0,0,1,0,0,1,0,1,0,1,0,20
+57,5,"sneezing , sore throat , cough , fever , vomiting , diarrhea , abdominal pain",Influenza,INFECT,0,1,0,0,0,1,0,1,0,0,1,0,1,0,10
+58,4,"severe headaches , extreme weakness , difficulty concentrating , unremitting vomiting after meals , weight loss , difficulty walking",Celiac Disease,GASTRO,0,1,0,0,0,1,0,0,1,0,0,1,1,0,5
+59,2,"stopped feeding , arch his back , pale , sweaty",Anomalous Origin of the Coronary Arteries?,CARDIO,0,1,0,0,0,1,0,0,1,0,1,0,1,0,1
+60,4,"fever , mild headache , moderate croup , difficulty breathing",Bacterial Tracheitis,RESP,1,0,0,0,0,1,0,0,1,0,1,0,0,1,19
+61,8,"sudden onset of fever , abdominal pain , headache , decreased urination",Ebola Hemorrhagic Fever,INFECT,0,1,0,0,0,0,1,0,1,0,0,1,0,1,10
+62,2,"fever , upper respiratory tract infection",Meningococcal Disease,INFECT,0,1,0,0,0,1,0,0,1,0,0,1,0,1,10
+63,8,"heart palpitations , sense of choking , tingling in the hands , shortness of breath , dizziness",Anxiety Neurosis,PSYCH,1,0,1,0,0,1,0,1,0,0,1,0,1,0,18
+64,9,"painful joints , ringing in ears , hearing loss , peripheral neuropathy , worse with movement , skin hyperpigmentation , tenosynovitis , mild cognitive impairment , abdominal pain , nausea , diarrhea , weight loss , fever , sweats",Whipple Disease,GASTRO,1,0,1,0,0,1,0,0,1,0,0,1,1,0,5
+65,7,"fourteen days before this admission , the patient began taking an increased dose of prednisone because of increasing stool frequency up to six episodes daily , persistent hematochezia two days later , he had a telephone consultation , hydrocortisone enemas were prescribed partial improvement was noted after days three days before this admission , he reported fevers with a peak temperature of c , a stool frequency of four or five episodes per day , hematochezia on the day of this admission , the patient returned to the outpatient clinic because of persistent symptoms he reported that he had urgent , frequent , bloody bowel movements up to times daily , weakness , fatigue , decreased appetite , minor joint pains , left sided abdominal pain not related to eating , weight loss of kg during the preceding weeks , drenching night sweats , fever , with a peak temperature of c the previous evening he revealed that he had performed home fmt with stool obtained from his wife , month old child on four occasions several weeks earlier he had a history of iron deficiency anemia for which iron had been administered orally , intravenously , low testosterone for which clomiphene citrate had been administered in the past , vitamin d deficiency , anxiety , seasonal allergies , a positive purified protein derivative ppd skin test for which isoniazid had been administered in the past medications also included probiotics , vitamin d he lived with his wife , child , worked in an office he drank alcohol rarely , did not smoke cigarettes or use intravenous drugs he had traveled to central america , south america in the past",CMV Disease in the Immunocompromised Host,INFECT,0,1,0,0,0,1,0,0,1,0,0,1,1,0,10
+66,6,"severe abdominal cramps , weight loss",Crohn's Disease,GASTRO,1,0,1,0,0,1,0,0,1,0,1,0,1,0,5
+67,6,"bifurcated ribs , cyst of jaws",Basal Cell Nevus Syndrome,DERM,0,1,0,0,0,1,0,0,1,0,0,1,1,0,2
+68,7,"low back pain , scapulalgia , difficulty walking , dyshidrotic eczema , rectal pain , fracture , pain in the buttocks , rash on hands , chest pain or tightness , back problems , joint pain",Spondyloarthropathies ,RHEUM,0,1,0,0,0,1,0,0,1,0,0,1,1,0,20
+69,8,"polyuria , polydipsia , blurred vision , malaise , fatigue , bilateral extremity cramps , nausea , abdominal pain , headache , weight loss , shortness of breath , nausea , early satiety , slight constipation , abdominal pain after eating , urinary frequency , off balance , difficulty concentrating , diabetes",Diabetic Ketoacidosis,ENDO,1,0,1,0,0,1,0,0,1,0,1,0,0,1,4
+70,9,"jaundiced , dark urine , not feeling well",Pancreatic Neoplasms,NEOPL,0,1,0,0,0,1,0,0,1,0,0,1,1,0,12
+71,8,"left groin redness pain , inner thigh redness pain , swelling , fever , chills , vomiting , mild tachypnea , tachycardia",Necrotising Fasciitis,INFECT,1,0,1,0,0,1,0,0,1,0,0,1,0,1,10
+72,7,"weakness , tingling on left side of body , face",Transient Ischemic Attack,CARDIO,1,0,1,0,0,1,0,0,1,0,1,0,0,1,1
+73,7,"dizziness , sudden headache",CVA / Stroke,NEURO,1,0,1,0,0,1,0,1,0,0,1,0,0,1,14
+74,7,"temporary blindness , confused speech",CVA / Stroke,NEURO,1,0,1,0,0,1,0,1,0,0,1,0,0,1,14
+75,9,"head injury , knee injury , bleeding , swelling on bridge of nose , abrasion to corner of eye , hematoma on eyebrow , abrasion on knee , ring finger",Subdural Hematoma,CARDIO,1,0,1,0,0,1,0,0,1,0,1,0,0,1,1
+76,10,"dizziness , falling down , discoloration leg , bruise , early onset of alzheimers , prediabetic",Fournier's Gangrene,INFECT,0,1,0,0,0,1,0,0,1,0,0,1,0,1,10
+77,7,"lower back pain , unexplained weight loss",Non-Hodgkin Lymphoma,NEOPL,1,0,1,0,0,1,0,0,1,0,0,1,1,0,12
+78,7,"red lesion , fever , diarrhea , chills , throbbing behind eyes , flu like symptoms , chest pain , left side abdominal pain , night sweats",Tularemia,INFECT,1,0,1,0,0,1,0,0,1,0,1,0,1,0,10
+79,9,"severe stiffness , soreness , shoulder pain , pain in right scalp , neck pain , pelvic area pain , temporal area pain , low back pain , shoulder pain , right jaw pain when eating , tenderness , high crp",Giant Cell Arteritis,RHEUM,1,0,1,0,0,1,0,0,1,0,0,1,0,1,20
+80,8,"severe fatigue , severe back pain",Metastatic Breast Cancer,NEOPL,1,0,1,0,0,1,0,0,1,0,0,1,0,1,12
+81,4,"oral thrush , impaired urination , severe calve pain , fatigue and dark circles under eyes , hand tremors , burning soles of feet",Megaloblastic Anemias,INFECT,1,0,0,0,0,1,0,0,1,0,0,1,1,0,10
+82,4,"headache , fever , feeling unwell , rash , itchy skin , sore throat",VZV Infection,INFECT,1,0,0,0,0,1,0,1,0,0,1,0,1,0,10
+83,4,"sore throat , mild fever , thick coating on back of nose or throat , breathing problems , swallowing problems , swollen neck",Diphtheria,INFECT,1,0,0,0,0,1,0,0,1,0,1,0,1,0,10
+84,4,"fever , cough , sore throat , headache , muscle aches , tiredness",Influenza,INFECT,1,0,0,0,0,1,0,1,0,0,1,0,1,0,10
+85,4,"runny nose , stuffy nose , sneezing , cough , coughing fits , difficulty breathing , low grade fever",Pertussis,INFECT,1,0,0,0,0,1,0,0,1,0,1,0,1,0,10
+86,7,"pain , itching , tingling , painful rash , blisters",Herpes Zoster,INFECT,0,1,0,0,0,1,0,1,0,0,1,0,1,0,10
+87,4,"painful muscle spasms , inability to open mouth , difficulty swallowing",Tetanus,INFECT,0,1,0,0,0,1,0,0,1,0,1,0,1,0,10
+88,4,"elbow pain , knee pain , locked knee joint , unable to bear full weight",Osteochondritis Dessicans of the Knee ,ORTHO,1,0,0,0,0,1,0,0,1,0,1,0,1,0,17
+89,8,"rash , animal bite , nausea , vomiting , epigastric pain , lacerations with necrotic edges , mottled skin , livedo , fever , decreased skin turgor , pallor , scattered inspiratory wheezes , malaise , shaking chills , diffuse body aches , pins & needles , diaphoretic , high bp",Sepsis and Shock,SHOCK,0,1,0,0,0,1,0,1,0,0,1,0,0,1,21
+90,10,"easy bruising , fatigue , weakness generalized , low hemoglobin , low platelets",Leukemia,NEOPL,0,1,0,0,0,1,0,0,1,0,1,0,0,1,12
+91,4,"left hip pain , left knee pain , unable to bear weight left leg , worsening limp , decreasing movement , decreased range of motion , bowlegs",Legg-Calve-Perthes Disease ,ORTHO,0,1,0,0,0,1,0,0,1,0,1,0,1,0,17
+92,6,"night sweats , back pain , joint pains , scaly rash , skin lesion",Coccidioidomycosis ,INFECT,0,1,0,0,0,1,0,0,1,0,1,0,1,0,10
+93,8,"persistent fatigue , abdominal pain , vomiting",Primary Adrenal Insufficiency,ENDO,0,1,0,0,0,1,0,0,1,0,0,1,0,1,4
+94,8,"tingling and numbness , crohn's disease , light headedness , dizziness",Pernicious Anemia,INFECT,0,1,0,0,0,1,0,1,0,0,1,0,1,0,10
+95,8,"fever , confusion , renal dysfunction , low platelets",Thrombotic Thrombocytopenic Purpura,HEMAT,0,1,0,0,0,1,0,0,1,0,1,0,1,0,7
+96,6,"iv drug use , fatigue",Hepatitis C,HEPATO,0,1,0,0,0,1,0,0,1,0,1,0,1,0,8
+97,6,"retching , heaving , lack of appetite , abdominal pain , diarrhea , fever , dizziness , headache , sensitivity to light",Abdominal Migraine,GASTRO,0,1,0,0,0,1,0,1,0,0,1,0,1,0,5
+98,6,"sweating a lot intermittent , uncontrollable vomiting intermittent , nausea intermittent , relieved by hot showers , methadone , synthetic marijuana , antidepressant medication , antihistamine",Cannabinoid Hyperemesis,GASTRO,0,1,0,0,0,1,0,0,1,0,0,1,1,0,5
+99,8,"headache , dizziness , nausea , presyncope , rapid alternating movement delayed , slow question response",Cysticercosis,INFECT,0,1,0,0,0,1,0,0,1,0,0,1,1,0,10
+100,5,"blood spotting , mild ovary pain",Endometriosis,OBGYN,1,0,1,0,0,1,0,1,0,0,1,0,1,0,15
+101,7,"swollen eyelids , fever , swollen and red face , sinusitis",Orbital Cellulitis,OPHTHAL,1,0,1,0,0,1,0,1,0,0,1,0,0,1,16
+102,9,"fever , confusion , speech difficulties , livedo pattern rash on arms legs chest and abdomen , vomiting , increasing fatigue , diaphoresis , decreased platelet count , occult blood stool , diffuse muscle pain , neck stiffness , pain with swallowing , flushed , unable to stand , mottled skin , purpuric rash on hands , diffuse muscles tenderness , hands and feet cold , hypotension , tachycardia , diffuse generalized weakness , renal failure , high pulse rate , gout , lethargic , increased respiratory rate , anemia",Endocarditis,CARDIO,0,1,0,0,0,1,0,0,1,0,1,0,1,0,1
+103,5,"sudden onset of pain in legs , purple , swollen legs , unable to walk",Deep Vein Thrombosis,HEMAT,1,0,1,0,0,1,0,0,1,0,1,0,0,1,7
+104,7,"night sweats , abdominal pain after eating , increased after deep breaths , mild nausea , belching , hiccups , bloating , loose stools , sharp frontal headache , psoriasis , pmh vertigo with ear fullness , painful nodules on shins , ankle pain , knee pain , erythema , cellulitis , pmh appendectomy herniorrhaphy , turbinectomy , family history of diverticulitis , hypertension , tenderness in right upper quadrant , hyperpigmented scaly plaque lower legs , waist",Sarcoidosis ,RESP,0,1,0,0,0,1,0,0,1,0,1,0,1,0,19
+105,8,"chest pain radiating to back , high blood pressure",Aortic Aneurysm / Dissection,VASC,1,0,1,0,0,1,0,0,1,0,1,0,0,1,26
+106,8,"sudden onset severe headache , vomiting , alchohol consumption",Intracranial Hemorrhage,NEURO,1,0,1,0,0,1,0,0,1,0,1,0,0,1,14
+107,8,"severe debilitating headaches , severe pain in shoulders , neck , back , hips , legs and feet",Fibromyalgia ,RHEUM,1,0,1,0,0,1,0,0,1,0,1,0,1,0,20
+108,4,"arthritis , enthesitis , heel pain , undifferentiated inflammatory oligoarthritis",Psoriatic Arthritis,RHEUM,0,1,0,0,0,1,0,0,1,0,1,0,1,0,20
+109,4,"morning stiffness , constant pain , polyarthritis , back pain , joint pain",Psoriatic Arthritis,RHEUM,0,1,0,0,0,1,0,0,1,0,1,0,1,0,20
+110,8,"hiv infection , fatigue , malaise , erythematous rash over chest , abdomen , epigastric abdominal pain , periumbilical abdominal pain , right upper quadrant abdominal pain , postprandial nausea , right sided chest pain radiating to left arm , unintentional weight loss , elevated aminotransferase levels , prolonged prothrombin time",Hepatitis C,HEPATO,1,0,1,0,0,1,0,0,1,0,1,0,1,0,8
+111,9,"worsening low back pain , suprapubic pain , burning penile pain , unable to urinate",Prostatic Abscess,UROL,0,1,0,0,0,1,0,0,1,0,1,0,1,0,25
+112,6,"joint pain , fatigue , dry mouth , nose dry , throat dry",Sjogren's Syndrome ,RHEUM,0,1,0,0,0,1,0,0,1,0,0,1,1,0,20
+113,8,"body aches , chest pain , shortness of breath , butterfly shaped rash on nose",Systemic Lupus Erythematosus ,RHEUM,1,0,1,0,0,1,0,0,1,0,1,0,1,0,20
+114,9,"hip pain , limited range of motion , pain with weightbearing activities , stiffness , tenderness",Osteoarthritis,RHEUM,0,1,0,0,0,1,0,1,0,0,1,0,1,0,20
+115,8,"swollen hands and wrists , joint movement diminished",Rheumatoid Arthritis,RHEUM,1,0,1,0,0,1,0,1,0,0,1,0,1,0,20
+116,8,"widespread pain , extreme fatigue",Fibromyalgia,RHEUM,1,0,1,0,0,1,0,0,1,0,1,0,1,0,20
+117,5,"nausea and vomiting , dizziness , headaches , pmh bulimia",Brain Neoplasms,NEOPL,1,0,1,0,0,1,0,0,1,0,1,0,0,1,12
+118,7,"severe neck pain , numbness and tingling arms and legs",Epidural Abscess,NEURO,1,0,1,0,0,1,0,0,1,0,0,1,0,1,14
+119,6,"fatigue , cough , sinus congestion , rhinorrhea , vomiting , diarrhea , abdominal pain , pmh kawasaki disease , hypotension , tachycardia , hypothermia , hypokinesis , pericardial effusion",Myocarditis,CARDIO,1,0,1,0,0,1,0,0,1,0,0,1,1,0,1
+120,7,"diabetic , boil , malaise , back pain , fever",Epidural Abscess,NEURO,0,1,0,0,0,1,0,0,1,0,0,1,0,1,14
+121,8,"malaise , chest pain , nausea , erythematous rash , obese , ruq abdominal pain , weight loss",Hepatitis C,HEPATO,1,0,1,0,0,1,0,0,1,0,0,1,1,0,8
+122,6,"upper back pain , lower back pain , weight loss , pmh mononucleosis , pmh shingles , severe back pain , supraclavicular lymph node",Testicular Neoplasms,UROL,0,1,0,0,0,1,0,0,1,0,0,1,1,0,25
+123,6,"fever , productive cough , body aches , morbidly obese , hispanic , hypoxic , blood tinged sputum , severe respiratory distress",Influenza,INFECT,0,1,0,0,0,1,0,1,0,0,1,0,1,0,10
+124,6,"fever , cough , body aches",Influenza,INFECT,0,1,0,0,0,1,0,1,0,0,1,0,1,0,10
+125,6,"swallowing problems , environmental illness , skin cracking , deglutition disorder , wound exudate , difficulty swallowing solids , allergy",Eosinophilic Esophagitis,GASTRO,0,1,0,0,0,1,0,0,1,0,0,1,1,0,5
+126,3,"progressive muscle weakness , difficulty kneeling then rising , patchy skin rash on hands",Dermatomyositis / Polymyositis,RHEUM,0,1,0,0,0,1,0,0,1,0,0,1,1,0,20
+127,8,"chest pain relieved by rest , chest pain on exertion , pain radiates to neck , pain radiates to arm , sharp chest pain , heavy chest pain , sob , diaphoresis , nausea , vomiting , smoker , irregular heart rate and rhythm , st elevation , past medical history diabetes mellitus type ii , hypertension , coronary artery disease , atrial fibrillation , family history coronary artery disease",Acute Inferior Myocardial Infarction,CARDIO,0,1,0,0,0,1,0,1,0,0,1,0,0,1,1
+128,6,"severe headache , lower extremity weakness , photophobia , stiff neck , sleepiness",CNS TB & TB Meningitis,INFECT,0,1,0,0,0,1,0,0,1,0,1,0,1,0,10
+129,8,"sob , decreased exercise tolerance , high normal bp",Pulmonary Hypertension,CARDIO,0,1,0,0,0,1,0,1,0,0,1,0,1,0,1
+130,6,"vesicular facial rash , wrestling",Herpes Gladiatorum ,DERM,0,1,0,0,0,1,0,0,1,0,1,0,1,0,2
+131,9,"hot , swollen knee , decreased range of motion , granuloma",TB Spine / Pott's Disease,NEURO,1,0,1,0,0,1,0,0,1,0,1,0,0,1,14
+132,10,"confusion , anuria , abdominal distension , lower abdominal pain , hypertension",Lower Urinary Tract Obstruction,UROL,0,1,0,0,0,1,0,1,0,0,1,0,1,0,25
+133,5,"knee pain , knee effusion , athletics",Osteochondritis dissecans ,ORTHO,0,1,0,0,0,1,0,0,1,0,1,0,1,0,17
+134,8,"anterior precordial and retrosternal chest pain , tearing sensation , pain on inspiration , hypertension",Aortic Aneurysm / Dissection,VASC,0,1,0,0,0,1,0,0,1,0,1,0,0,1,26
+135,8,"relapsing fever , pancytopenia",Hodgkin Disease,NEOPL,0,1,0,0,0,1,0,0,1,0,1,0,1,0,12
+136,9,"fever , night sweats , muscle aches , hematuria , reddish-purple lesions on feet , aortic valve replacement",Endocarditis,CARDIO,0,1,0,0,0,1,0,0,1,0,1,0,1,0,1
+137,5,"epigastric pain , malaise , weight loss , hypercalcemia , gluteal nodular eczematous lesion",Sarcoidosis ,RESP,0,1,0,0,0,1,0,0,1,0,0,1,1,0,19
+138,10,"right hemiparesis , aphasic , obese , vomiting , somnolent , unresponsive , conjugate forced eye deviation to left , right sided facial droop , depressed mental status , hypertensive",CVA / Stroke,NEURO,1,0,1,0,0,1,0,1,0,0,1,0,0,1,14
+139,9,"abdominal pain , night sweats , constipation , weight loss , rlq abdominal mass",Non-Hodgkin Lymphoma ,NEOPL,0,1,0,0,0,1,0,0,1,0,0,1,1,0,12
+140,10,"difficulty walking , radiating pain to knee , groin tenderness , left hip pain , low phosphate , high alkaline phosphatase , high parathyroid hormone",Oncogenic Osteomalacia ,ORTHO,1,0,1,0,0,1,0,0,1,0,0,1,1,0,17
+141,6,"near syncope , fast heart rate , lightheadedness , shortness of breath",Wolff-Parkinson-White Syndrome ,CARDIO,0,1,0,0,0,1,0,0,1,0,0,1,1,0,1
+142,5,"low grade fever , decreased appetite , weight loss , erythematous rash on feet , bilateral ankle swelling , pain with walking , cervical lymphadenopathy , malar rash",SLE,RHEUM,0,1,0,0,0,1,0,0,1,0,0,1,1,0,20
+143,10,"severe abdominal pain , iliac fossa tenderness , costovertebral angle tenderness , tachycardia",Abdominal Aortic Aneurysm,VASC,0,1,0,0,0,1,0,0,1,0,0,1,0,1,26
+144,9,"sudden onset shortness of breath , tachycardia , low oxygen saturations , cecal mass , bibasilar segmental atelectasis , hypoxemic",Pulmonary Thromboembolism,RESP,0,1,0,0,0,1,0,0,1,0,1,0,0,1,19
+145,5,"swallowing difficulties , intermittent epigastric and mid-sternal burning , occasional vomiting after eating , frequent nausea , occasional abdominal pain",Eosinophilic Esophagitis ,GASTRO,1,0,1,0,0,1,0,0,1,0,0,1,1,0,5
+146,9,"painful and tender right shoulder , progressive acromioclavicular joint mass , rotator cuff weakness , decreased range of motion , left arm brachiocephalic fistula with positive bruit and palpable thrill",Acromioclavicular Separation ,ORTHO,0,1,0,0,0,1,0,1,0,0,1,0,1,0,17
+147,6,"exercise-induced syncope , unexplained dizziness , family history of syncope",Long QT Syndrome ,CARDIO,1,0,1,0,0,1,0,0,1,0,1,0,1,0,1
+148,5,"left ear pain , ear discharge with bloody discharge , headache , temporal pain , facial pain ,orbital pain , double vision , sixth nerve palsy",Gradenigo Syndrome ,EAR,1,0,1,0,0,1,0,0,1,0,0,1,1,0,3
+149,3,"malodorous nasal discharge , partial nasal obstruction , snoring , sleep disturbances",Nasal FB,RESP,1,0,0,0,0,1,0,1,0,0,1,0,1,0,19
+150,7,"abdominal wall mass , menorrhagia and dysmenorrhea , premenstrual soreness and pain",Endometriosis,OBGYN,1,0,1,0,0,1,0,1,0,0,1,0,1,0,15
+151,2,"hypercalcemia , failure to thrive , low alkaline phosphatase , low phosphate , high phosphoethanolamine levels",Infantile Hypophosphatasia ,ORTHO,0,1,0,0,0,1,0,0,1,0,0,1,1,0,17
+152,6,"menstrual irregularity , dysmenorrhea , abdominal distension , ascites , bilateral basal pleural effusion , normocytic normochromic anemia , high esr , urinalysis with red blood cells white blood cells and protein",SLE,RHEUM,1,0,1,0,0,1,0,0,1,0,0,1,1,0,20
+153,9,"left sided weakness , occipital headache , vomiting , feverish , disorientated , drowsy , meningismus , brudzinskis sign positive , reflexes left upper and lower limbs brisk and excessive , left hemianesthesia and left homonymous hemianopsia , elevated protein , decreased glucose , hyponatremia , elevated leukocyte count",CNS TB & TB Meningitis,INFECT,1,0,1,0,0,1,0,0,1,0,0,1,1,0,10
+154,9,"tachycardia , occasional palpitations , night sweats , weight loss , anxiety , diarrhea , occasional diplopia , bilateral exophthalmos with exotropia , thyroid disease",Thyroid Storm,ENDO,1,0,1,0,0,1,0,0,1,0,0,1,0,1,4
+155,6,"sharply demarcated , hypopigmented macules and patches , unilateral linear distribution on forehead",Vitiligo,DERM,1,0,1,0,0,1,0,1,0,0,1,0,1,0,2
+156,10,"right sided chest pain , acute onset , absent breath sounds , diffuse rhonchi , bibasilar inspiratory crackles , pansystolic murmur",Pneumothorax,RESP,0,1,0,0,0,1,0,0,1,0,1,0,0,1,19
+157,10,"brown macules , red nodule central ulceration , atrophic epidermis , lymphocytes , increased pathologic metabolism parapharyngeal lymph node , superficial soft tissues , epidermotropism",Primary aggressive epidermotropic CD8+ cytotoxic T-cell lymphoma,DERM,0,1,0,0,0,1,0,0,1,1,0,0,1,0,2
+158,8,"abdominal pain upper quadrant , reduced appetite , early satiety , hepatomegaly , hispanic",Gastric Neoplasms ,NEOPL,0,1,0,0,0,1,0,0,1,0,0,1,0,1,12
+159,9,"chest pain occuring at rest , dyspnea , smoker , chest pressure , left ventricular hypertrophy",Prinzmetal's Variant Angina,CARDIO,1,0,1,0,0,1,0,0,1,0,1,0,0,1,1
+160,10,"skin rash , skin ulcer , hypotension , shock , elevated creatinine , hypoglycemia , respiratory failure , disseminated intravascular coagulation",Waterhouse-Friderichsen Syndrome ,ENDO,1,0,1,0,0,1,0,0,1,0,0,1,1,0,4
+161,6,"cardiac arrest after blow to chest , unresponsive , ventricular fibrillation",Commotio Cordis ,CARDIO,0,1,0,0,0,1,0,0,1,0,1,0,1,0,1
+162,6,"fevers , mild headache , diarrhea , trunk and arm macular-papular rash , lymphopenia ,anemia , thrombocytopenia",HIV/AIDS ,INFECT,0,1,0,0,0,1,0,0,1,0,0,1,1,0,10
+163,7,"recurrent respiratory tract infection , chronic giardiasis , intermittent thrombocytopenia ,recurrent otitis media , streptococcus pneumoniae pneumonia",X-linked Agammaglobulinemia ,IMMUN,0,1,0,0,0,1,0,0,1,1,0,0,1,0,9
+164,9,"lower back pain and stiffness , neck stiffness , diabetic",Diffuse idiopathic skeletal hyperostosis  ,RHEUM,0,1,0,0,0,1,0,0,1,0,0,1,1,0,20
+165,10,"abdominal pain and distention , decreased mental status , absent bowel sounds , obese ,anemia , septic shock , elevated aminotransferase level , absent bowel sounds , high wcc ,elevated bilirubin , elevated crp , elevated creatinine , elevated urea",Amyand's hernia ,GASTRO,0,1,0,0,0,1,0,0,1,0,0,1,1,0,5
+166,8,"thrombocytopenia , bruising , weakness , backache , normocytic normochromic anemias , elevated esr , elevated alkaline phosphatase",Non-Secretory Myeloma ,NEOPL,1,0,1,0,0,1,0,0,1,0,0,1,1,0,12
+167,4,"upper back swelling , restriction of shoulder movement , scaphoid abdomen , bilateral deformed thumb and toes , palpable thyroid , hard bony swellings",Fibrodysplasia Ossificans Progressiva ,ORTHO,0,1,0,0,0,1,0,0,1,0,0,1,1,0,17
+168,5,"lower leg pain , fever , tibial tenderness , knee swelling , knee erythema",Chondromyxoid Fibroma ,ORTHO,0,1,0,0,0,1,0,0,1,0,0,1,1,0,17
+169,10,"abdominal pain , epigastric fullness , vomiting , abdominal tenderness",Paraduodenal Hernias ,GASTRO,1,0,0,0,0,1,0,0,1,0,0,1,1,0,5
+170,8,"dry cough , smoker , bird droppings , low hemoglobin , low wbc , low platelet count , low albumin , elevated lactate dehydrogenase ,dusty , mildly tachypneic , weight loss , fatigability , dyspnea on effort , night sweats",Histoplasmosis,INFECT,0,1,0,0,0,1,0,0,1,0,0,1,1,0,10
+171,9,"decreased breathing , productive cough , sob , right atrial enlargement , ventricular enlargement",Pulmonary Thromboembolism,RESP,0,1,0,0,0,1,0,0,1,0,1,0,0,1,19
+172,9,"nausea , normochromic normocytic anemia , vomiting , hyponatremia , decreased libido and impotence , apathetic appearance , perioral skin wrinkling",Empty Sella Syndrome,ENDO,0,1,0,0,0,1,0,0,1,0,0,1,1,0,4
+173,10,"iron deficiency anemia , heme positive stool , lack of appetite , weight loss , malaise , elevated platelets , generalized weakness",Small Bowel Adenocarcinoma ,NEOPL,1,0,0,0,0,1,0,0,1,0,0,1,1,0,12
+174,10,"decreased cognitive status , decreased mental capacity , dizziness , lightheadedness , left side weakness , decreased smell , tingling hand , increased frequency of urine , night tremors , sleep apnea",Brain Stem Stroke,VASC,1,0,0,0,0,1,0,1,0,0,1,0,0,1,26
+175,10,"mild headache , somnolence , poor appetite , lethary , altered mental status , increased intracranial pressure , confusion",Subdural Hematoma ,VASC,0,1,0,0,0,1,0,0,1,0,0,1,0,1,26
+176,2,"decreased alertness , emesis , somnolent , purple ecchymosis , lip lacerations , hypotonia",Shaken Baby Syndrome,SOCIAL,1,0,0,0,0,1,0,0,1,0,1,0,1,0,22
+177,10,"episodic altered mental status , agitation , word finding difficulty , insomnia , visual hallucinations , impaired short term memory , impaired concentration , depressed affect ,visuospatial problems , cogwheel rigidity , bradykinesia , postural instability , executive dysfunction , tremor",Lewy Body Dementia,NEURO,0,1,0,0,0,1,0,0,1,0,0,1,1,0,14
+178,6,"fever of unknown origin , upper back pain , sole numbness , productive cough , weight loss ,lung crepitations , wheezes , elevated esr , allergic rhinitis , eosinophilia",Churg-Strauss Syndrome ,RHEUM,0,1,0,0,0,1,0,0,1,0,0,1,1,0,20
+179,8,"diffusely enhanced brisk reflexes , plantar responses extensor bilaterally , clonus , bilateral hoffmann signs , lhermitte's sign , increased pain with heat",Multiple Sclerosis,NEURO,0,1,0,0,0,1,0,1,0,0,1,0,1,0,14
+180,9,red lump on penis,Carcinoma of the Penis,NEOPL,0,1,0,0,0,1,0,0,1,0,1,0,1,0,12
+181,7,"pelvic pain  ,  pain on urination  ,  pain with exercise  ,  elevated crp",Cystitis,UROL,1,0,1,0,0,1,0,1,0,0,1,0,1,0,25
+182,6,"nausea , vomiting , diarrhea , lower abdominal pain , dysuria , menstrual irregularity , dysmenorrhea , fever , high bp , generalized pallor , distended abdomen , tender abdomen , high wbc , bilateral basal pleural effusion , normocytic anemia , normochromic anemia , elevated esr , proteinuria , exudative ascites , blood in urine , arthralgia wrists and hands , pmh of tuberculosis , low hemoglobin",Systemic Lupus Erythematosus,RHEUM,1,0,1,0,0,1,0,0,1,0,0,1,1,0,20
+183,10,"left lower quadrant abdominal pain , anorexia , flatus , obstipation , urinary bladder prolapse , tender abdomen and pain , palpable fullness , elevated alkaline phosphatase , hyperglycemia , past surgical history of cholecystectomy , appendectomy , hysterectomy , pmh atrial fibrillation , minimal left flank tenderness",Diverticular Diseases of the Colon,GASTRO,1,0,0,0,0,1,0,0,1,0,0,1,0,1,5
+184,7,"severe headaches , stiff neck , unilateral numbness , loss of sensation",Brain Neoplasms,NEOPL,1,0,1,0,0,1,0,0,1,0,1,0,0,1,12
+185,9,"extreme fatigue , shaking chills , extreme headache , vomiting , very low bp , slightly anemic , terrible diarrhea , myalgias",Babesiosis ,INFECT,1,0,1,0,0,1,0,0,1,0,0,1,1,0,10
+186,7,"chest pain , sob , hypoxia",Pulmonary Thromboembolism,RESP,1,0,1,0,0,1,0,0,1,0,1,0,0,1,19
+187,9,"polysubstance abuse , excessive caffeine , smoker , metoprolol , hydrochlorothiazide , rapid speech , minimal eye contact , tapping feet , mild hypertension , homeless , tachycardia , anxiety",Hyperthyroidism,ENDO,0,1,0,0,0,1,0,1,0,0,0,1,0,1,4
+188,10,"kidneys failing , severely elevated potassium levels , hip pain , bladder obstruction",Prostate Cancer,NEOPL,0,1,0,0,0,1,0,0,1,0,0,1,0,1,12
+189,3,"very tall for age , very thin , weak wrists and ankles , hernia",Marfan Syndrome ,RHEUM,0,1,0,0,0,1,0,0,1,0,0,1,1,0,20
+190,10,"progressive fatigue , absent babinski sign , difficulty walking , leg swelling , hip pain , weight gain , easy bruising , diabetes , facial edema , ecchymoses , pitting edema , poor attention , delayed recall , plethoric face , swollen face , diminished reflexes , poor wound healing , elevated urine free cortisol",Cushing's Syndrome,ENDO,1,0,0,0,0,1,0,0,1,0,0,1,1,0,4
+191,7,"visceral pelvic pain , pain on urination , pain with exercise , elevated crp",Endometriosis,OBGYN,1,0,1,0,0,1,0,1,0,0,1,0,1,0,15
+192,2,red urine,Congenital Erythropoietic Porphyria ,METAB,0,1,0,0,0,1,0,0,1,1,0,0,1,0,11
+193,8,"chest pain , palpitations , sinus tachycardia , pmh spontaneous abortions , family history of blood clots , genetic clotting disorder",Pulmonary Thromboembolism,RESP,1,0,1,0,0,1,0,0,1,0,1,0,0,1,19
+194,5,"dryness  ,  redness  ,  intense itching  ,  scalp elbow feet  ,  peeling nails",Scabies,DERM,1,0,1,0,0,1,0,1,0,0,1,0,1,0,2
+195,10,"elevated lft , worsening fatigue , abdominal distension , peripheral edema , past medical history of cirrhosis , past medical history of anemia , elevated transaminases , elevated bilirubin , past medical history of hepatitis c",Hepatocellular Carcinoma,NEOPL,0,1,0,0,0,1,0,0,1,0,0,1,1,0,12
+196,5,"12 hour history of acutely worsening abdominal pain , past medical history of chronic back pain , past medical history of hyperlipidemia , nausea , vomiting , anorexia , constant sharp 6/10 pain radiating to chest and back , nonbloody emesis , nonbilious emesis , pain after eating fatty meal , family history of hypercholesterolemia , family history of hypertension",Cholelithiasis,HEPATO,1,0,1,0,0,1,0,0,1,0,0,1,1,0,8
+197,10,"abdominal pain , vomiting , bloody diarrhea , leukocytosis , elevated lactate",Intestinal Ischemia ,GASTRO,0,1,0,0,0,1,0,0,1,0,0,1,1,0,5
+198,8,"headache , word finding difficulties",Glioblastoma Multiforme / Anaplastic Astrocytoma,NEOPL,0,1,0,0,0,1,0,0,1,0,0,1,0,1,12
+199,2,"slight fever , rhinorrhea",Aseptic Meningitis,INFECT,0,1,0,0,0,1,0,0,1,0,0,1,1,0,10
+200,3,"vomiting , petechial rash",Meningococcal Disease,INFECT,1,0,0,0,0,1,0,0,1,0,1,0,0,1,10
+201,9,"ataxia , nausea , sob , palpitations , fatigue , orthostatic hypotension , depression",Vit B12 Deficiency,HEMAT,0,1,0,0,0,1,0,1,0,0,0,1,0,1,7
+202,10,"episodic sob , exercise intolerance , extreme fatigue , scleroderma , intermittent dysphagia",Pulmonary Hypertension,CARDIO,1,0,0,0,0,1,0,1,0,0,1,0,1,0,1
+203,6,"chronic joint pain , easy bruising , fibromyalgia type pain , weight loss , hair loss",Ehlers-Danlos Syndrome ,RHEUM,1,0,1,0,0,1,0,0,1,0,0,1,1,0,20
+204,9,"fever , chills , fatigue , edema",Endocarditis ,CARDIO,0,1,0,0,0,1,0,0,1,0,1,0,1,0,1
+205,6,"liver cyst  ,  right upper quadrant abdominal pain  ,  effusion  ,  decreased breath sounds  ,  elevated hepatic enzymes  ,  high eosinophil count",Amoebic Liver Abscess,HEPATO,0,1,0,0,0,1,0,0,1,0,1,0,1,0,8
+206,7,"sciatica , ongoing back pain",Cauda Equina Syndrome,NEURO,1,0,1,0,0,1,0,0,1,0,1,0,0,1,14
+207,10,"gait difficulty , lack of energy tired , neck pain , falling down , urinary incontinence , sleepiness",Hydrocephalus ,NEURO,1,0,0,0,0,1,0,0,1,0,0,1,1,0,14
+208,9,"near fainting , enlarged heart",Hypertrophic Cardiomyopathy,CARDIO,0,1,0,0,0,1,0,0,1,0,0,1,0,1,1
+209,8,"throbbing headache , near-fainting , nausea , papilledema",Taenia solium ,INFECT,0,1,0,0,0,1,0,0,1,0,0,1,1,0,10
+210,10,"severe pain - pelvis , fast pulse/rapid heart rate , gross hematuria , fracture of pelvis , severe pain - pelvic cavity , fever , lower abdominal pain , pelvic pain , inability to walk",Bladder Trauma,UROL,1,0,0,0,0,1,0,0,1,0,0,1,1,0,25
+211,10,"history of insulin dependent diabetes , atrophic bilateral shin plaque , yellow to orange , well demarcated",Necrobiosis Lipoidica,DERM,1,0,0,0,0,1,0,0,1,0,0,1,1,0,2
+212,10,"breakage or loss of the outer layer of skin , inability to walk , mentally confused , bruising , falling down , abrasions , stroke , a-fib",Subdural Hematoma,NEURO,0,1,0,0,0,1,0,0,1,0,0,1,0,1,14
+213,5,"gasping for breath , cough , vomiting",Pertussis,INFECT,0,1,0,0,0,1,0,0,1,0,0,1,1,0,10
+214,7,"pain , calf/leg pain during walking , secondary malignant neoplasm of lumbar vertebral column , decreased sensation/sensitivity , tenderness to palpation , numbness of the face , fever and chills , early satiety , pain in the buttocks , weight loss , moderate pain",Ewing's Sarcoma,NEOPL,0,1,0,0,0,1,0,0,1,0,0,1,1,0,12
+215,3,"fever , rash , elevated sed rate",Kawasaki Disease,RHEUM,0,1,0,0,0,1,0,0,1,0,0,1,0,1,20
+216,4,"not sleeping well , chapped lips , rash , conjunctivitis , irritability",Kawasaki Disease,RHEUM,0,1,0,0,0,1,0,0,1,0,0,1,0,1,20
+217,6,"abdominal pain , weight loss , fever , altered bowel habits",Strongyloidiasis ,INFECT,1,0,1,0,0,1,0,0,1,0,0,1,1,0,10
+218,6,severe chest pain radiating to back with tearing quality,Aortic Aneurysm / Dissection,VASC,1,0,1,0,0,1,0,0,1,0,1,0,0,1,26
+219,9,"fatigue , swollen abdomen , swollen legs and feet , liver cirrhosis",Wilson's Disease,GENE,0,1,0,0,0,1,0,0,1,0,0,1,0,1,6
+220,10,"tightness in the arms/legs , swelling - calf of leg , leg edema - left lower leg , swelling - calf , swelling - left lower extremity , leg edema - left lower extremity , skin tightness",Deep Vein Thrombosis,HEMAT,1,0,0,0,0,1,0,0,1,0,0,1,0,1,7
+221,4,"knee pain , mild effusion , elevated wcc , unable to weight bear",Pyomyositis / Tropical Pyomyositis,NEURO,0,1,0,0,0,1,0,0,1,0,0,1,0,1,14
+222,6,severe lumbosacral and paraspinal pain,Epidural Abscess,NEURO,0,1,0,0,0,1,0,0,1,0,1,0,0,1,14
+223,7,"severe upper back , neck pain radiating to the shoulders , numbness in upper extremities , fever , high wbc , intravenous drug use , narcotics , pmh of hepatitis b , hepatitis c",Epidural Abscess,NEURO,0,1,0,0,0,1,0,0,1,0,1,0,0,1,14
+224,8,"numbness lower extremities , leg swelling , low back pain radiating around to stomach , constipation , urinary retention , pmh anemia , pmh diabetes , pmh lupus , pmh kidney disease",Epidural Abscess,NEURO,0,1,0,0,0,1,0,0,1,0,1,0,0,1,14
+225,7,"neck , back pain , elevated wbc",Epidural Abscess,NEURO,0,1,0,0,0,1,0,0,1,0,0,1,0,1,14
+226,8,"low back pain , pain unrelieved by over the counter analgesic , tachycardia",Epidural Abscess,NEURO,0,1,0,0,0,1,0,0,1,0,0,1,0,1,14
+227,7,"leg pain , leg swelling , unable to urinate , unable to move leg , previous medical history of femoral artery bypass",Epidural Abscess,NEURO,0,1,0,0,0,1,0,0,1,0,0,1,0,1,14
+228,7,"left neck pain , pain in head , high wbc",Epidural Abscess,NEURO,0,1,0,0,0,1,0,0,1,0,0,1,0,1,14
+229,8,"bilateral weakness , fever , elevated wbc",Epidural Abscess,NEURO,0,1,0,0,0,1,0,0,1,0,0,1,0,1,14
+230,10,"abdominal pain , nausea , vomiting , hypotensive , tachycardic",Acute Pancreatitis,NEURO,1,0,0,0,0,1,0,1,0,0,0,1,0,1,14
+231,9,"back pain radiating to shoulder , fevers",Epidural Abscess,NEURO,1,0,0,0,0,1,0,0,1,0,0,1,0,1,14
+232,8,"generalized body aches , tingling and numbness , fever , feeling unwell",Lyme Disease,INFECT,1,0,0,0,0,1,0,0,1,0,1,0,1,0,10
+233,6,"dizziness , exhausted , confused , forgetful , pain in back",Lyme Disease,INFECT,1,0,0,0,0,1,0,0,1,0,0,1,1,0,10
+234,6,"flu or cold like symptoms , easily fatigued , muscle weakness , joint pain , cognitive problems",Lyme Disease,INFECT,1,0,0,0,0,1,0,0,1,0,0,1,1,0,10
+235,6,"fevers , dizziness , fatigue , moodiness",Lyme Disease,INFECT,1,0,0,0,0,1,0,0,1,0,0,1,1,0,10
+236,5,"joint pain , blurry vision , migraines , fatigue , vertigo",Lyme Disease,INFECT,1,0,0,0,0,1,0,0,1,0,1,0,1,0,10
+237,5,"recurring fever , persistent joint pain , headache",Lyme Disease,INFECT,0,1,0,0,0,1,0,0,1,0,1,0,1,0,10
+238,6,"shortness of breath , chest pain , abdominal cramping , nausea , vomiting , bulls eye rash , neck stiffness , twitching",Lyme Disease,INFECT,0,1,0,0,0,1,0,0,1,0,0,1,1,0,10
+239,6,"body pain , extreme head pain , dizziness , nausea and vomiting , night sweats , night terrors ,frequent elevated heart rate",Lyme Disease,INFECT,1,0,0,0,0,1,0,0,1,0,1,0,1,0,10
+240,6,"slight twitch of finger , depression",Lyme Disease,INFECT,0,1,0,0,0,1,0,0,1,0,0,1,1,0,10
+241,8,"severe muscle fatigue, body aches constantly",Lyme Disease,INFECT,1,0,0,0,0,1,0,0,1,0,1,0,1,0,10
+242,7,"sensitive to light , sensitive to movement",Lyme Disease,INFECT,1,0,0,0,0,1,0,0,1,0,0,1,1,0,10
+243,3,"limping , left sided weakness , pallor , icteric , stupor alternating with irritability , persistent pain , grade systolic murmur is heard all over the precordium , severe headache vomiting",Sickle Cell Disease / Crisis,HEMAT,1,0,0,0,0,1,0,0,1,0,0,1,0,1,7
+244,4,"blood pressure decreasing , oxygen desaturation , increased pulse rate , cognitive problems",Sepsis and Shock,SHOCK,1,0,0,0,0,1,0,1,0,0,1,0,0,1,21
+245,6,"numbness , fatigue , tingling , uncoordinated movement , bowel incontinence , bladder problems",Multiple Sclerosis,NEURO,0,1,0,0,0,1,0,1,0,0,1,0,1,0,14
+246,6,"fatigue , vision problems , difficulty walking",Multiple Sclerosis,NEURO,0,1,0,0,0,1,0,1,0,0,1,0,1,0,14
+247,7,"leg numbness , legs feeling cold , difficulty walking",Multiple Sclerosis,NEURO,1,0,0,0,0,1,0,1,0,0,0,1,1,0,14
+248,7,"leg numbness , legs feeling cold , difficulty walking , temporary vision loss",Multiple Sclerosis,NEURO,1,0,0,0,0,1,0,1,0,0,0,1,1,0,14
+249,7,"leg numbness , legs feeling cold , difficulty walking , temporary vision loss , imbalance , slurred speech , pins , needles hands , feet , forgetfulness , uncoordinated movement",Multiple Sclerosis,NEURO,1,0,0,0,0,1,0,1,0,0,0,1,1,0,14
+250,7,"muscle spasms , imbalance , uncoordinated movement , blurred vision in one eye , fatigue",Multiple Sclerosis,NEURO,1,0,0,0,0,1,0,1,0,0,0,1,1,0,14
+251,6,"weight loss , tiredness , vomiting after eating , daily eye swelling",Ovarian Neoplasms,NEOPL,1,0,0,0,0,1,0,0,1,0,0,1,0,1,12
+252,7,"mood swings , impulsiveness , unstable personal relationships , low sense of self esteem , self worth , fear of abandonment by family or friends , impulsive behaviors such as reckless spending or driving , intense moods comprised of anger , depression , or irritability",Borderline Personality Disorder,PSYCH,1,0,0,0,0,1,0,0,1,0,0,1,1,0,18
+253,7,"reckless behavior , mood swings , impulsiveness , euphoria , deep depression , fatigue , with an inability to focus or be productive , delusional about having powers , to feeling completely hopeless , empty",Bipolar Disorder,PSYCH,1,0,0,0,0,1,0,1,0,0,0,1,0,1,18
+254,7,"lateral hip , thigh , knee pain , pain with walking",Tendinitis,ORTHO,0,1,0,0,0,1,0,1,0,0,1,0,1,0,17
+255,10,"hip pain , kidney failure , bladder blockage",Prostate Cancer,NEOPL,0,1,0,0,0,1,0,0,1,0,0,1,0,1,12
+256,9,"chronic left foot burning pain numbness , pulses intact , loss of sensation left leg , foot drop",Peripheral Arterial Disease,VASC,0,1,0,0,0,1,0,0,1,0,1,0,0,1,26
+257,4,"vomiting cyclic , bilateral throbbing headaches , worse in morning , nausea , falls frequently , unsteady gait , abnormal finger to nose coordination , horizontal diplopia , balancing issues",Brain Stem Gliomas (Brain Tumor),NEURO,1,0,0,0,0,1,0,0,1,0,0,1,0,1,14
+258,6,"sob , syncope , fatigue , forceful beats , sensation of a racing heart , irregular tachycardic rhythm",Lyme Disease,INFECT,0,1,0,0,0,1,0,0,1,0,0,1,1,0,10
+259,7,sore breast,Breast Cancer,NEOPL,1,0,0,0,0,1,0,1,0,0,0,1,0,1,12
+260,6,"fatigue , weight loss , bowel problems , lynch syndrome",Colorectal Cancer,NEOPL,1,0,0,0,0,1,0,0,1,0,0,1,0,1,12
+261,9,"stomach pain , poor appetite , constipation , urinary symptoms",Colon Diverticulitis ,GASTRO,0,1,0,0,0,1,0,1,0,0,0,1,0,1,5
+262,4,"painful bowel incontinence , weight loss",Crohn Disease,GASTRO,1,0,0,0,0,1,0,0,1,0,1,0,1,0,5
+263,9,"tremor limb , impaired hand movements , depression , paranoia , anxiety , compulsive behavior , cognitive impairment",Lewy Body Dementia,NEURO,0,1,0,0,0,1,0,0,1,0,0,1,1,0,14
+264,3,"vomiting blood , stomach pain , black stool",Esophageal Perforation ,GASTRO,1,0,0,0,0,1,0,0,1,0,1,0,0,1,5
+265,7,"fatigue , muscle pain , weakness , trouble with hand motor skills , brain fog",Lyme Disease,INFECT,1,0,0,0,0,1,0,0,1,0,0,1,1,0,10
+266,4,"high fever , headache , body aches , sore throat , vomiting , stuffy nose , rash over the arms , legs , trunk , hands , feet , low platelet count , elevated liver enzymes , hyponatremia , exposure to animals",Rocky Mountain Spotted Fever,INFECT,1,0,0,0,0,1,0,0,1,0,0,1,1,0,10
+267,8,"profuse bleeding , severe pelvic pain , lethargy",Ovarian Neoplasms,NEOPL,1,0,0,0,0,1,0,0,1,0,1,0,0,1,12
+268,6,"spinal lesions , chest pain , lung involvement",Pulmonary TB,RESP,0,1,0,0,0,1,0,0,1,0,1,0,0,1,19
+269,2,"ards , hypertriglyceridemia",Hemophagocytic Lymphohistiocytosis,NEOPL,0,1,0,0,0,1,0,0,1,1,0,0,1,0,12
+270,5,"headache , speech deficits , poor comprehension , right sided face , arm weakness",Lyme Disease,INFECT,1,0,0,0,0,1,0,0,1,0,0,1,1,0,10
+271,10,"nausea , diarrhea , chills , feverish , lower left abdominal discomfort , no appetite",Colon Diverticulitis ,GASTRO,1,0,0,0,0,1,0,1,0,0,1,0,0,1,5
+272,8,"headache , fever , abdominal pain , vomiting , painful hands , feet , muscle aches",Rocky Mountain Spotted Fever,INFECT,1,0,0,0,0,1,0,0,1,0,0,1,1,0,10
+273,6,"weight loss , turned black , walking difficulty",Addison's Disease,ENDO,1,0,0,0,0,1,0,0,1,0,0,1,0,1,4
+274,2,"healing fractures , minor bruising over body , bleeding mouth",Von Willebrand Disease,HEMAT,0,1,0,0,0,1,0,0,1,0,0,1,1,0,7
+275,8,"erratic heartbeat , chest pressure , pain radiating from chest to neck , jaw",Lyme Disease,INFECT,1,0,0,0,0,1,0,0,1,0,0,1,1,0,10
+276,4,"constant debilitating fatigue , painful body aches , feels like he is dying",Lyme Disease,INFECT,0,1,0,0,0,1,0,0,1,0,1,0,1,0,10
+277,5,"weight loss , extreme fatigue , joint pain , flu like symptoms , difficulty concentrating , unable to th",Lyme Disease,INFECT,0,1,0,0,0,1,0,0,1,0,1,0,1,0,10
+278,4,"joint pain , headache , compulsions , tremor kinetic , rash full body , tics oral , hyperactivity motor , tics motor",Lyme Disease,INFECT,0,1,0,0,0,1,0,0,1,0,1,0,1,0,10
+279,5,"tired , no appetite , sob , rash",Lyme Disease,INFECT,0,1,0,0,0,1,0,0,1,0,0,1,1,0,10
+280,7,"throbbing , burning , stabbing , facial pain",TM Joint syndrome ,ORTHO,1,0,0,0,0,1,0,0,1,0,1,0,1,0,17
+281,5,"fever , chills , headache , weakness , bloody or watery cough",Yersinia Pestis,INFECT,1,0,0,0,0,1,0,0,1,1,0,0,0,1,10
+282,10,"malaise , fevers , dyspnea , nonproductive cough , rigors , diaphoresis , high heart rate , wheezing , exposure to animals , anemia , thrombocytopenia , sepsis , bronchial breath sounds in right lower lobe",Relapsing Fever ,INFECT,0,1,0,0,0,1,0,0,1,0,0,1,1,0,10
+283,6,"sore throat , nasal congestion , fatigue , fever , sweating , swollen tonsils",Infectious Mononucleosis ,INFECT,1,0,0,0,0,1,0,0,1,0,0,1,1,0,10
+284,4,"severe abdominal pain , vomiting",Peritonitis,GASTRO,1,0,0,0,0,1,0,0,1,0,0,1,1,0,5
+285,4,"conjunctivitis , fever , lethargic",Adenoviral Infections,INFECT,0,1,0,0,0,1,0,0,1,0,1,0,1,0,10
+286,6,"vision problem , encephalitis",Acute Disseminated Encephalomyelitis ,INFECT,1,0,0,0,0,1,0,0,1,0,0,1,1,0,10
+287,6,"headache , sensitivity to light , rash",Meningococcal Disease ,INFECT,1,0,0,0,0,1,0,0,1,0,1,0,0,1,10
+288,6,"irrational negative thoughts , worry , repetitive actions , anxious mood , racing thoughts",OCD,PSYCH,1,0,0,0,0,1,0,1,0,0,1,0,1,0,18
+289,1,"presented at m with head tilted towards the l side , with chin rotation to the right , a palpable neck mass behind left ear , into the sternocleidomastoid scm muscle",Torticollis,ORTHO,0,1,0,0,0,1,0,0,1,0,1,0,1,0,17
+290,6,"high fever , retro orbital headache , vomiting , macular rash on both legs , low white blood cell count",Dengue Fever,INFECT,0,1,0,0,0,1,0,0,1,0,0,1,1,0,10
+291,6,"coughing , progressive dyspnea , weakness",Influenza,INFECT,0,1,0,0,0,1,0,1,0,0,1,0,1,0,10
+292,7,"hand pain , slow speech , difficulty speaking , tired , rash , tick bites , headaches , lethargy , sinus pain , back , shoulder pain , unable to lift arm , blood pressure raised , breathing problem , trouble walking",Lyme Disease,INFECT,0,1,0,0,0,1,0,0,1,0,0,1,1,0,10
+293,4,"sleeping all day , high fever , poor appetite , rash , swollen hands , difficulty walking",Kawasaki Disease,RHEUM,1,0,0,0,0,1,0,0,1,0,0,1,0,1,20
+294,10,purple urine,Purple Urine Bag Syndrome,NEPHRO,1,0,0,0,0,1,0,0,1,0,0,1,1,0,13
+295,6,"fever , rash , joint pain , headache , eye pain , prominent muscle aches , enlarged lymph nodes",Dengue Fever,INFECT,0,1,0,0,0,1,0,0,1,0,0,1,1,0,10
+296,6,"fever , rash , joint pain , prominent headache , enlarged lymph nodes",Chikungunya ,INFECT,0,1,0,0,1,0,0,0,1,0,0,1,1,0,10
+297,7,"abdominal pain , nausea , vomiting",Acute Appendicitis,GASTRO,1,0,0,0,0,1,0,1,0,0,1,0,0,1,5
+298,3,"fatalities , bulla , allergic reactions",Steven-Johnson Syndrome ,DERM,0,1,0,0,0,1,0,0,1,0,0,1,0,1,2
+299,9,"burning pain , numbness foot , sensation loss to knee , foot drop secondary to stroke",Peripheral Arterial Disease,VASC,0,1,0,0,0,1,0,0,1,0,0,1,0,1,26
+300,9,"fatigue , palpable pupuric lesions , hypertension , proteinuria , hematuria , poor appetite , cushingoid appearance , anasarca , marked peripheral pitting edema , anemia , renal failure",Cryoglobulinemia,RHEUM,0,1,0,0,0,1,0,0,1,0,0,1,1,0,20
+301,10,"history of benign prostatic hyperplasia , history of obstructive sleep apnea , subacute abdominal pain , mid abdomen , crampy , occasional constipation , mild dilation of the ascending , transverse , proximal descending colon , physiologic peristalsis , mass",Large Bowel Obstruction ,GASTRO,0,1,0,0,0,1,0,0,1,0,0,1,0,1,5
+302,4,"fever of unknown origin , left lateral thigh pain , left knee pain , cat",Cat-Scratch Disease,INFECT,0,1,0,0,0,1,0,0,1,0,0,1,1,0,10
+303,3,"intermittent vomiting , abdominal pain , nonbloody diarrhea , mild abdominal tenderness in the upper quadrants , mild anemia , mild thrombocytopenia , bandemia , elevated c reactive protein , mildly elevated transaminases , fever",Salmonella Infections,INFECT,1,0,0,0,0,1,0,0,1,0,1,0,1,0,10
+304,5,"knee pain , intermittent fever , limping , mild knee swelling , warm joint , unable to extend knee , leukocytosis , high lactate dehydrogenase level , elevated uric acid , hypercellular marrow with diffuse leukemic infiltrate",Leukemia,NEOPL,0,1,0,0,0,1,0,0,1,0,0,1,0,1,12
+305,2,"fever of unknown origin , bump on neck , red eyes lips tongue hands feet , rash on abdomen , irritable",Kawasaki Disease,RHEUM,1,0,0,0,0,1,0,0,1,0,0,1,0,1,20
+306,3,"fever , knee pain , unable to walk , weight loss , headache , vomiting , fatigue , confusion",CNS TB & TB Meningitis,INFECT,1,0,0,0,0,1,0,0,1,0,0,1,1,0,10
+307,4,"rapid breathing , blue lips , prominent right ventricular heave , occasional systolic thrill , relieved by squatting",Tetralogy of Fallot,CARDIO,0,1,0,0,0,1,0,0,1,0,0,1,1,0,1
+308,5,"diabetes mellitus , deafness , optic atrophy , diabetes insipidus",Wolfram Syndrome,ENDO,1,0,0,0,0,1,0,0,1,1,0,0,1,0,4
+309,2,"kyphosis , not short , macrocephaly , corneal clouding",Hurler Syndrome,METAB,0,1,0,0,0,1,0,0,1,1,0,0,1,0,11
+310,9,"hallucinations , atrophic arm , walking difficulty , cognitive deficit , congenital defects , forgetful",Hydrocephalus ,NEURO,1,0,0,0,0,1,0,0,1,0,0,1,1,0,14
+311,7,"limb joints locked , unable to move , bedridden , painful joints , hand , feet pain , extreme back pain",Lyme Disease,INFECT,1,0,0,0,0,1,0,0,1,0,0,1,1,0,10
+312,8,"fever , malaise , erythematous papules on back , arms , dorsum of hands , elevated wbc",Sweet Syndrome,RHEUM,1,0,0,0,0,1,0,0,1,0,0,1,1,0,20
+313,6,"stomach ache , bloated stomach , eating problem , vomiting , weight loss",Gastroparesis ,GASTRO,1,0,0,0,0,1,0,0,1,0,0,1,1,0,5
+314,7,"sore knee , large abscess back of knee",Osteomyelitis and Septic Arthritis,INFECT,1,0,0,0,0,1,0,0,1,0,1,0,1,0,10
+315,9,"rapid weight gain , fatigue , sweaty , enlargement of hands , feet , face , legs , obstructive sleep apnea , high blood pressure , high cholesterol , back pain , knee pain , carpal tunnel syndrome , buffalo hump",Acromegaly,ENDO,1,0,0,0,0,1,0,0,1,0,0,1,1,0,4
+316,8,"earche , chills , bulging tympanic membrane",Otitis Media,EAR,1,0,0,0,0,1,0,1,0,0,1,0,1,0,3
+317,7,"exposed to sunlight , leg rash",Acute Porphyria,METAB,0,1,0,0,0,1,0,0,1,0,1,0,0,1,11
+318,9,"hand edema , hypotension",Anaphylaxis,ALLERG,0,1,0,0,0,1,0,1,0,0,0,1,0,1,0
+319,10,"fevers , altered mental status , sob , myoclonic twitching",West Nile Encephalitis,INFECT,0,1,0,0,0,1,0,0,1,0,0,1,1,0,10
+320,7,"hypokalemia , paralysis legs",Hyperthyroidism,ENDO,0,1,0,0,0,1,0,1,0,0,0,1,0,1,4
+321,10,"hyperparathyroidism , hypophosphatemia , increased serum alkaline phosphatase , increased parathyroid hormone",Oncogenic Osteomalacia,ORTHO,1,0,0,0,0,1,0,0,1,0,0,1,1,0,17
+322,9,"hypoxemia , hypocapnia",Pulmonary Thromboembolism ,RESP,0,1,0,0,0,1,0,0,1,0,1,0,0,1,19
+323,9,"decreased glucose level , elevated protein count , hazy csf , hyponatremia , elevated esr , elevated leukocyte",CNS TB & TB Meningitis ,INFECT,1,0,0,0,0,1,0,0,1,0,0,1,1,0,10
+324,2,"hypercalcemia , low alkaline phosphatase , low phosphate , high phosphoethanolamine levels",Infantile Hypophosphatasia,ORTHO,0,1,0,0,0,1,0,0,1,0,0,1,1,0,17
+325,8,"hyperglycemia , low hematocrit , low serum bicarbonate , hyponatremia , ketonuria",Diabetic Ketoacidosis,ENDO,1,0,0,0,0,1,0,0,1,0,1,0,0,1,4
+326,5,"elevated bun , elevated serum creatinine , elevated calcium level , low phosphorous , hepatic aminotransferase levels slightly elevated , low parathyroid hormone , hypercalciuria",Sarcoidosis ,RESP,0,1,0,0,0,1,0,0,1,0,0,1,1,0,19
+327,6,"dyspneic , combative , blood pressure changes with respiration , distended jugular vein , distant heart sounds , muffled heart sounds , stab wound to chest",Pericardial / Cardiac Tamponade,CARDIO,0,1,0,0,0,1,0,0,1,0,0,1,0,1,1
+328,6,"feeling feverish , headache , light sensitivity",Bacterial Meningitis,INFECT,0,1,0,0,0,1,0,0,1,0,1,0,1,0,10
+329,6,"constant axilla pain , dull pain , tenderness , redness and swelling arm , low platelet count , elevated ptt",Antiphospholipid Syndrome,RHEUM,0,1,0,0,0,1,0,0,1,0,0,1,1,0,20
+330,4,"unusual fatigue , rash , muscle ache",Hereditary Angioedema / C1 Esterase Inhibitor Deficiency,ALLERG,0,1,0,0,0,1,0,0,1,0,0,1,1,0,0
+331,4,"erythematous nonurticarial rash , localized tingling , sense of skin tightness , fatigue , flu like symptoms , malaise , irritability , hyperactivity , thirst , nausea",Hereditary Angioedema / C1 Esterase Inhibitor Deficiency,ALLERG,0,1,0,0,0,1,0,0,1,0,0,1,1,0,0
+332,4,"severe abdominal pain , swelling , diarrhea , vomiting , ascites , obstruction bowel",Hereditary Angioedema / C1 Esterase Inhibitor Deficiency,ALLERG,0,1,0,0,0,1,0,0,1,0,0,1,1,0,0
+333,7,"vomiting after meals , weight loss , constant fatigue , mole removal , paleness",Liver Neoplams,NEOPL,1,0,0,0,0,1,0,0,1,0,0,1,1,0,12
+334,9,"sudden onset right eye pain , bright halos , antidepressant",Glaucoma,OPHTHAL,1,0,0,0,0,1,0,1,0,0,1,0,1,0,16
+335,8,"tiredness persistent , sleep problem , irritable , poor appetite , cognitive problem , memory problem , pmh of gout",Heavy Metal Intoxication,TOXIC ,0,1,0,0,0,1,0,0,1,0,0,1,1,0,23
+336,7,"pupils unequal , eyelid droop",Horner Syndrome,OPHTHAL,0,1,0,0,0,1,0,0,1,0,0,1,1,0,16
+337,6,"epigastric , upper abdominal pain , nausea , vomiting , diarrhea , diffuse mid abdominal cramping , periumbilical discomfort , mild diffuse periumbilical tenderness , medical history of gerd",Acute Appendicitis,GASTRO,1,0,0,0,0,1,0,1,0,0,1,0,0,1,5
+338,8,"abdominal pain , belching , nausea , vomiting , dizziness , shortness of breath , upper back pain",Myocardial Infarction / Acute Coronary Syndrome,CARDIO,1,0,0,0,0,1,0,1,0,0,0,1,0,1,1
+339,9,"acute onset of left flank pain , dizziness , high pulse rate , microscopic hematuria",Aortic Aneurysm / Dissection,VASC,0,1,0,0,0,1,0,0,1,0,0,1,0,1,26
+340,2,"abdominal pain , vomiting",Intussusception,GASTRO,0,1,0,0,0,1,0,0,1,0,0,1,0,1,5
+341,7,"lavender blue skin , fingers cyanotic , dark brown venous sample , hb , electrophoresis , low oxygen saturation , family history of lavendar blue skin",Methemoglobinemia,HEMAT,1,0,0,0,0,1,0,0,1,0,0,1,0,1,7
+342,6,"back pain , fever , fatigue , headache , severity level is moderate severe , bone joint symptoms , problem is worse , onset years ago , duration is years",Lyme Disease,INFECT,0,1,0,0,0,1,0,0,1,0,0,1,1,0,10
+343,8,"resting tremor , rigid muscles , difficulty walking",Parkinson's Disease ,NEURO,0,1,0,0,0,1,0,1,0,0,1,0,1,0,14
+344,8,"depression , chronic pain , fatigue unrelieved by rest , diffuse tenderness on palpation",Fibromyalgia,RHEUM,0,1,0,0,0,1,0,0,1,0,0,1,1,0,20
+345,8,"memory loss , sore throat , painful lymph nodes , muscle and joint pain , headache , extreme fatigue",Chronic Fatigue Syndrome ,NEURO,0,1,0,0,0,1,0,0,1,0,1,0,1,0,14
+346,8,"vomiting , abdominal pain , bloating , diarrhea , weight loss , anemia , leg cramps",Celiac Disease,GASTRO,0,1,0,0,0,1,0,0,1,0,1,0,1,0,5
+347,8,"fatigue , heart lung and kidney damage , rash , joint pain",SLE,RHEUM,0,1,0,0,0,1,0,0,1,0,0,1,1,0,20
+348,7,"violaceous nodules , purpuric rash on legs , worsening asthma , constant runny nose , aspirin , pulmonary infiltrates , elbow pain",Churg-Strauss Syndrome ,RHEUM,1,0,0,0,0,1,0,0,1,0,0,1,1,0,20
+349,6,"weight loss , abdominal pain , diarrhoea , constipation , chronic mouth ulcers , anaemia",Celiac Disease,GASTRO,0,1,0,0,0,1,0,0,1,0,1,0,1,0,5
+350,9,"elbow pain , swollen elbow",Olecranon Bursitis,ORTHO,0,1,0,0,0,1,0,0,1,0,1,0,1,0,17
+351,6,"disease has taken over every single cell in my body , in my brain , excrutiating pain",Lyme Disease,INFECT,1,0,0,0,0,1,0,0,1,0,0,1,1,0,10
+352,6,"strep throat , emotional insecurity , pain in her knees , difficulty concentrating , blurred vision , muscle weakness",Lyme Disease,INFECT,1,0,0,0,0,1,0,0,1,0,0,1,1,0,10
+353,7,"skin lesions , faded discoloured , numbness , muscle weakness or paralysis , hands , feet , eye problems , enlarged nerves , stuffy nose , nosebleeds , ulcers on soles of feet",Leprosy,INFECT,0,1,0,0,0,1,0,0,1,0,0,1,1,0,10
+354,6,"abdominal pain , severe constipation , confusion , hallucinations , seizures , muscle weakness , unexplained hypertension",Acute Intermittent Porphyria,METAB,1,0,0,0,0,1,0,0,1,0,0,1,0,1,11
+355,6,"weakness in forearm , hand , left sided ptosis , constricted pupil , hemifacial anhidrosis",Horner Syndrome ,OPHTHAL,1,0,0,0,0,1,0,0,1,0,0,1,1,0,16
+356,9,"dry mouth at night , joint pains",Sjogren's Syndrome ,RHEUM,1,0,0,0,0,1,0,0,1,0,0,1,1,0,20
+357,10,"weakness , dizziness on standing , hypotension , chronic fatigue , diabetes mellitus",Amyloidosis,RHEUM,0,1,0,0,0,1,0,0,1,1,0,0,1,0,20
+358,7,"geographic tongue , ridged nails , scoliosis , osteoporosis , joint pains",Ehlers-Danlos Syndrome,RHEUM,0,1,0,0,0,1,0,0,1,0,0,1,1,0,20
+359,8,"irrational behaviour , fever",Bacterial Meningitis,INFECT,1,0,0,0,0,1,0,0,1,0,0,1,1,0,10
+360,8,"irrational behaviour , fever , flu like symptoms , head hurts , speaking difficulty , loss of vision , hearing impaired , ear infection",CNS TB & TB Meningitis,INFECT,1,0,0,0,0,1,0,0,1,0,0,1,1,0,10
+361,7,"headache , body aches , puffy eyes , swollen face , sweating a lot , chills rigors , neck pain , difficulty swallowing , chest tightness , fever , strep throat",Lemierre's Syndrome,INFECT,0,1,0,0,0,1,0,0,1,0,0,1,0,1,10
+362,3,"fever , headache , weakness , myalgia , diarrhea",Malaria,INFECT,0,1,0,0,0,0,1,0,1,0,1,0,0,1,10
+363,7,"malnutrition , headaches , extreme unexplained fatigue",Celiac Disease,GASTRO,1,0,0,0,0,1,0,0,1,0,0,1,1,0,5
+364,7,"unexplained fatigue , weight loss , weak bones , depression",Celiac Disease,GASTRO,1,0,0,0,0,1,0,0,1,0,0,1,1,0,5
+365,8,"extreme fatigue , near syncope , palpitations , initially presented in complete heart block",Lyme Disease,INFECT,0,1,0,0,0,1,0,0,1,0,0,1,1,0,10
+366,10,"previous history diabetes , previous history hypertension , acute onset blurry vision",CVA / Stroke,NEURO,1,0,0,0,0,1,0,1,0,0,1,0,0,1,14
+367,1,"respiratory distress syndrome , prematurity",Hyaline Membrane Disease ,RESP,0,1,0,0,0,1,0,0,1,0,1,0,1,0,19
+368,9,"low platelet count , lactic acidosis , night sweats , excessive tiredness , severe abdominal pain , constipation , back pain radiating to legs",Non-Hodgkin Lymphoma ,NEOPL,0,1,0,0,0,1,0,0,1,0,0,1,1,0,12
+369,6,"rapid disease progression , inconsistent response to levodopa , orthostatic hypotension , other autonomic symptoms",Multiple System Atrophy (MSA),NEURO,1,0,0,0,0,1,0,0,1,0,0,1,1,0,14
+370,7,"chronic abdominal pain , vomiting , diarrhea",Celiac Disease,GASTRO,1,0,0,0,0,1,0,0,1,0,0,1,1,0,5
+371,10,"memory loss , depression  ,  chronic muscle spasms",Lyme Disease,INFECT,0,1,0,0,0,1,0,0,1,0,0,1,1,0,10
+372,6,"restlessness , insomnia , depressed",Bipolar Disorder,PSYCH,1,0,0,0,0,1,0,1,0,0,0,1,0,1,18
+373,6,"impulsive behavior , mood swings , feelings of disconnect",Borderline Personality Disorder,PSYCH,1,0,0,0,0,1,0,0,1,0,0,1,1,0,18
+374,4,"difficulty focusing , acting immature",ADHD,PSYCH,1,0,0,0,0,1,0,1,0,0,1,0,1,0,18
+375,7,"racing thoughts , mood swings , social anxiety , working memory deficit , executive function deficits , difficulty sleeping , low self esteem",ADHD,PSYCH,1,0,0,0,0,1,0,1,0,0,1,0,1,0,18
+376,6,"stressful frightening experience , anxiety , emotional numbness , risky behavior , intense fear , risk averse behavior , unable to sleep",PTSD,PSYCH,1,0,0,0,0,1,0,0,1,0,1,0,1,0,18
+377,6,"sleep problem , unable to concentrate , stress",General Anxiety Disorder,PSYCH,1,0,0,0,0,1,0,1,0,0,1,0,1,0,18
+378,2,"emesis , respiratory distress , hives , previous allergic reaction to milk products",Anaphylaxis,ALLERG,0,1,0,0,0,1,0,1,0,0,1,0,0,1,0
+379,10,"swollen leg , tenderness , warm skin , confused , short of breath",Deep Vein Thrombosis,HEMAT,1,0,0,0,0,1,0,0,1,0,1,0,0,1,7
+380,10,"arthralgia , myalgia , breathlessness , thickened , restrictive skin on hands discoloration , hair loss , telangiectasia , constipation , finger toes turn blue white with heat cold exposure plus sensation of numbness to the distal digits",Systemic Sclerosis,RHEUM,0,1,0,0,0,1,0,0,1,0,0,1,1,0,20
+381,10,"weak , exhausted , cyclic fever , shaking chills , loss of appetite",Babesiosis,INFECT,0,1,0,0,0,1,0,0,1,0,0,1,1,0,10
+382,10,"weak , exhausted , cyclic fever , shaking chills , loss of appetite , coughing , low red blood cell count , liver damage , upper abdominal pain",Babesiosis,INFECT,0,1,0,0,0,1,0,0,1,0,0,1,1,0,10
+383,4,"daily fevers , linear macular rash in area of scratching , swollen knee joints , lymphadenopathy",Juvenile Idiopathic Arthritis,RHEUM,1,0,0,0,0,1,0,0,1,0,0,1,1,0,20
+384,7,"diarrhea , abdominal cramping , abdominal pain , bloody stool , weight loss , fever",Crohn Disease,GASTRO,0,1,0,0,0,1,0,0,1,0,0,1,1,0,5
+385,7,"diarrhea , abdominal cramping , abdominal pain",Irritable Bowel Syndrome / Early Stage IBD,GASTRO,0,1,0,0,0,1,0,1,0,0,0,1,1,0,5
+386,3,"constipation , severe abdominal bloating , abdominal discomfort",Hirschsprung's Disease,GASTRO,0,1,0,0,0,1,0,0,1,0,0,1,0,1,5
+387,3,"sore throat , fever , ulcers on tonsillar arches",Herpangina,INFECT,0,1,0,0,0,1,0,0,1,0,0,1,1,0,10
+388,10,"diffuse thickening , scaling of the palms of hands , nails , soles of feet",Keratoderma of Palms and Soles,DERM,1,0,0,0,0,1,0,0,1,0,1,0,1,0,2
+389,7,"intermittent nonradiating pain , fever , llq abdominal pain , tachycardic , cervical motion tenderness , adnexal tenderness , mass , elevated wbc",Tubo-ovarian Abscess,OBGYN,1,0,0,0,0,1,0,0,1,0,1,0,0,1,15
+390,10,"fainting , body aches , irregular heartbeat , sore knees",Lyme Disease,INFECT,0,1,0,0,0,1,0,0,1,0,0,1,1,0,10
+391,6,"hyperventilation , trembling , nausea , pmh anxiety , acute onset , stress",General Anxiety Disorder,PSYCH,1,0,0,0,0,1,0,1,0,0,1,0,1,0,18
+392,3,"dilated nonresponsive pupils , seizure , apnea , bradycardia , elevated wcc , fever , hydrocephalus , flaccid",CNS TB & TB Meningitis,INFECT,0,1,0,0,0,1,0,0,1,0,0,1,1,0,10
+393,3,"extreme head pain , dizzy , vomiting",Brain Neoplasms,NEURO,0,1,0,0,0,1,0,0,1,0,0,1,0,1,14
+394,8,"neck pain , unequal pupils , ptosis of eyelid , miosis",Carotid Artery Dissection,VASC,0,1,0,0,0,1,0,0,1,0,0,1,1,0,26
+395,2,"fever , diarrhea , altered mental status",Sepsis and Shock,SHOCK,0,1,0,0,0,1,0,0,1,0,1,0,0,1,21
+396,6,"dry skin , skin lesions , bleeding skin , rash is light sensitive",Psoriasis,DERM,0,1,0,0,0,1,0,1,0,0,1,0,1,0,2
+397,10,"asking repetitive questions , short term memory loss , minor depression , loss of energy",Alzheimer's Disease,NEURO,1,0,0,0,0,1,0,1,0,0,1,0,1,0,14
+398,10,"progressive memory loss , confusion , word finding difficulties , disturbed comprehension",Alzheimer's Disease,NEURO,0,1,0,0,0,1,0,1,0,0,1,0,1,0,14
+399,9,"progressive cognitive decline , short term memory loss , easily distracted , forgetful",Alzheimer's Disease,NEURO,0,1,0,0,0,1,0,1,0,0,1,0,1,0,14
+400,9,"multitasking difficulties without disinhibition , loss of sympathy empathy , dietary changes , compulsive behavior , delusional thoughts , agitated behavior",Frontotemporal Dementia ,NEURO,0,1,0,0,0,1,0,0,1,0,0,1,1,0,14
+401,10,"isolated hesitant speech , word finding difficulties , anomia",Primary Progressive Aphasia,NEURO,0,1,0,0,0,1,0,0,1,0,0,1,1,0,14
+402,10,"depth perception difficulties , confused by changes in color , multitasking difficulties , focusing difficulties , confusion integrating information from complex visual scenes , forgetfulness , nighttime confusion",Alzheimer's Disease,NEURO,1,0,0,0,0,1,0,1,0,0,1,0,1,0,14
+403,7,"dysphagia , esophageal reflux unresponsive to esomeprazole , spitting up saliva , pmh allergies , food stuck in esophagus , unable to swallow saliva",Eosinophilic Esophagitis,GASTRO,0,1,0,0,0,1,0,0,1,0,0,1,1,0,5
+404,10,"colicky abdominal pain , left upper quadrant fullness , epigastric fullness , mild tenderness , elevated glucose level",Paraduodenal Hernias,GASTRO,1,0,0,0,0,1,0,0,1,0,0,1,1,0,5
+405,9,"reading disorder , difficulty naming objects , cognitive impairment",Gerstmann Syndrome ,NEURO,0,1,0,0,0,1,0,0,1,1,0,0,1,0,14
+406,7,"rapid breathing or heart rate , pale or discolored skin , confusion",Sepsis and Shock,SHOCK,0,1,0,0,0,1,0,1,0,0,1,0,0,1,21
+407,7,"night sweats , vomiting , loss of appetite , weight loss",Endocarditis,CARDIO,0,1,0,0,0,1,0,0,1,0,0,1,1,0,1
+408,4,"night fever , excessive sweating , exhausted , pale , cough , wheezing recurrent , enlarged lymph nodes in neck , chest , groin",Coccidioidomycosis ,INFECT,0,1,0,0,0,1,0,0,1,0,1,0,1,0,10
+409,3,"barking cough , crying , fever , stridor",Croup / Laryngotracheobronchitis,RESP,0,1,0,0,0,1,0,1,0,0,1,0,1,0,19
+410,5,"dizzy , cold hands , cold feet , stomach pains , shooting pain in legs , hpv vaccine , joint pain , bone pain , nausea , reflux , constipation",Postural Orthostatic Tachycardia Syndrome ,NEURO,1,0,0,0,0,1,0,0,1,0,0,1,1,0,14
+411,3,"fever , coughing , sneezing , conjunctivitis , grayish elevations on the buccal mucosa opposite his molar teeth , maculopapular rash on his trunk , extremities",Measles,INFECT,0,1,0,0,0,1,0,0,1,0,0,1,1,0,10
+412,4,"hip pain , knee pain , unable to bear weight on leg , falling down , limp , decreased mobility , decreased range of motion , abnormal medial metaphyseal beaking of proximal tibia , mild flattening of epiphysis medially",Legg-Calve-Perthes Disease ,ORTHO,0,1,0,0,0,1,0,0,1,0,1,0,1,0,17
+413,7,"sudden episodes of dizziness , palpitations , mild intermittent knee swelling , bradycardia , family history of sle , family history of hypertension , unprotected sex , fatigued , daily alcohol consumption , knee effusion spontaneously resolves",Lyme Disease,INFECT,0,1,0,0,0,1,0,0,1,0,0,1,1,0,10
+414,6,"motor vehicle accident , ill appearing , combative , trachea shifted to right of midline , decreased breath sounds , hyperresonance , carotid pulse weakly palpable , elevated jugular venous pressure",Tension Pneumothorax,RESP,0,1,0,0,0,1,0,0,1,0,1,0,0,1,19
+415,2,"fever , low blood sugar , seizures , non-reactive pupils , vomiting , diarrhea",Epilepsy & Seizure Disorders,NEURO,1,0,0,0,0,1,0,0,1,0,0,1,0,1,14
+416,7,"speech , swallowing problems , cognitive dysfunction , difficulty walking , bladder , bowel dysfunction , sexual dysfunction , mood swings , depression , fatigue , vision problems , tingling , numbness , vertigo , dizziness , muscle weakness , spasms , balance problems , uncoordinated movement",Multiple Sclerosis,NEURO,0,1,0,0,0,1,0,1,0,0,0,1,1,0,14
+417,4,"obsessive compulsive behavior , behavior changes",PANS,INFECT,1,0,0,0,0,1,0,0,1,0,0,1,1,0,10
+418,8,"vitamin b deficiency , unable to move toe , watery diarrhea , abdominal cramps , lower abdominal mass , lethargic , sob , black bowel movements",Non-Hodgkin Lymphoma ,NEOPL,0,1,0,0,0,1,0,0,1,0,0,1,1,0,12
+419,6,enlarged ovaries swollen with small collections of fluid,Polycystic Ovarian Syndrome ,OBGYN,1,0,0,0,0,1,0,0,1,0,1,0,1,0,15
+420,6,"menstrual irregularity , excess hair growth , acne , obesity",Polycystic Ovarian Syndrome ,OBGYN,1,0,0,0,0,1,0,0,1,0,1,0,1,0,15
+421,6,"increased liver size , low platelet count , jewish",Gaucher Disease ,METAB,0,1,0,0,0,1,0,0,1,1,0,0,1,0,11
+422,7,"lower abdominal pain , pain , bleeding varied with menstrual cycle",Endometriosis,OBGYN,1,0,0,0,0,1,0,1,0,0,1,0,1,0,15
+423,4,"eyes fluttering , staring spells",Absence Seizures,NEURO,0,1,0,0,0,1,0,1,0,0,1,0,0,1,14
+424,7,"myalgia , purpuric rash , altered mental status , headache , neck pain , fever , tachycardic , hypotensive , smoker , elevated wbc , high cpk , elevated c-reactive protein , elevated bun , lactic acidosis , elevated thromboplastin time , hyperalbuminemia , azotemia",Waterhouse-Friderichsen Syndrome ,ENDO,0,1,0,0,0,1,0,0,1,0,0,1,1,0,4
+425,7,"elevated wbc , high cpk , elevated c-reactive protein , elevated bun , lactic acidosis , elevated thromboplastin time , hyperalbuminemia , azotemia",Waterhouse-Friderichsen Syndrome ,ENDO,0,1,0,0,0,1,0,0,1,0,0,1,1,0,4
+426,7,"severe headaches , blurred vision , bilateral papilledema , vomiting , oral contraceptives",Cerebral Sinus Venous Thrombosis,NEURO,1,0,0,0,0,1,0,0,1,0,0,1,0,1,14
+427,7,"recurrent abdominal pain , loose stools , bloating , worse with food intake , painful bowel movements",Irritable Bowel Syndrome ,GASTRO,1,0,0,0,0,1,0,1,0,0,0,1,1,0,5
+428,9,"fever , dyspnea , productive cough , arthralgia , weight loss , decreased breath sounds , fine rales , clubbing digits , elevated c-reactive protein , elevated esr , emphysema , pleural effusion , mediastinal lymphadenopathy , previous medical history of smoking , joint pain , arthritis , pneumonia",Non-Small Cell Lung Cancer ,RESP,0,1,0,0,0,1,0,0,1,0,1,0,0,1,19
+429,6,"fever , chills , night sweats , weight loss , loss of appetite , trouble breathing , coughing , chest pain , abdominal pain , abdominal swelling , swollen legs , swollen lymph nodes , itching , enlarged tonsils , headache , fatigue , lack of energy",Non-Hodgkin Lymphoma ,NEOPL,0,1,0,0,0,1,0,0,1,0,0,1,1,0,12
+430,3,"vomiting , diarrhea , intestines folded over",Escherichia Coli Infections,INFECT,0,1,0,0,0,1,0,0,1,0,0,1,1,0,10
+431,9,"feverish , exhausted , nauseous , itchy , uncontrolled vomiting , enlarged thyroid gland , arms flailing , weight loss , heart racing , sweating , shaking , previous history of malaria",Hyperthyroidism ,ENDO,1,0,0,0,0,1,0,1,0,0,0,1,0,1,4
+432,6,"asymptomatic lesions , face , skin colored papules , medial eyelids , nasolabial folds",Sarcoidosis ,RESP,1,0,0,0,0,1,0,0,1,0,0,1,1,0,19
+433,9,"green discoloration of fingernail , picks nails , distal oncholysis , pigment localization under nail plate , repetitive trauma",Fungal Infections of the Nails,DERM,0,1,0,0,0,1,0,1,0,0,1,0,1,0,2
+434,2,"bright red , erythema , swollen , positive darier sign , yellowish orange lesion",Mast Cell Disease,DERM,1,0,0,0,0,1,0,0,1,0,0,1,1,0,2
+435,10,"difficulty swallowing , difficulty speaking , eyelid droop",Myasthenia Gravis ,NEURO,1,0,0,0,0,1,0,0,1,0,0,1,1,0,14
+436,9,"erythema , tenderness , umbilicus pain , purulent material",Cellulitis ,DERM,1,0,0,0,0,1,0,1,0,0,1,0,1,0,2
+437,6,"enlarged liver , anemia , jewish",Gaucher Disease ,METAB,0,1,0,0,0,1,0,0,1,1,0,0,1,0,11
+438,10,"dyspnoea , swollen leg",Pulmonary Embolism,RESP,0,1,0,0,0,1,0,0,1,0,1,0,0,1,19
+439,9,"early menopause , underactive thyroid , low sodium level , cortisol level in lower quarter of normal range",Addison's Disease,ENDO,1,0,0,0,0,1,0,0,1,0,1,0,0,1,4
+440,10,"acute onset of disabling diffuse pain , stiffness involving both the pelvic girdle , the shoulder girdle , pain worse in morning evening , feverish , mild weakness , elevated esr",Polymyalgia Rheumatica ,RHEUM,1,0,0,0,0,1,0,0,1,0,1,0,1,0,20
+441,9,"diffuse proximal muscle weakness , diffuse muscle pain , bilateral crepitus knees , diffuse proximal muscle tenderness shoulder girdle , pelvic girdle",Dermatomyositis / Polymyositis,RHEUM,1,0,0,0,0,1,0,0,1,0,0,1,1,0,20
+442,9,"poor sleeping , pain worse with activity , frequent awakening , memory problems , previous medical history of migraine headaches , previous medical history of chronic gastrointestinal pain , diffuse tenderness over muscles , joints , tendons , pain in neck , shoulder area , hips , pelvic area , all extremities , affecting muscles , bones",Fibromyalgia,RHEUM,1,0,0,0,0,1,0,0,1,0,0,1,1,0,20
+443,6,"seizures , slurred speech , headaches",Moyamoya Disease,NEURO,1,0,0,0,0,1,0,0,1,0,0,1,1,0,14
+444,7,"rectal bleeding or blood in the stools , change in bowel habit , stomach pain",Colorectal Cancer,NEOPL,0,1,0,0,0,1,0,0,1,0,1,0,0,1,12
+445,8,"lack of energy , constant fatigue , blood in stool",Colorectal Cancer,NEOPL,0,1,0,0,0,1,0,0,1,0,1,0,0,1,12
+446,8,"abdominal pain , anemia , diarrhea , rectal bleeding",Colorectal Cancer,NEOPL,0,1,0,0,0,1,0,0,1,0,1,0,0,1,12
+447,8,"abdominal pain , change in bowel habits , diarrhea , rectal bleeding",Colorectal Cancer,NEOPL,0,1,0,0,0,1,0,0,1,0,1,0,0,1,12
+448,5,"progressive hairy brown plaque on shoulder , hyperpigmented patch , hypertrichosis",Becker Nevus,DERM,0,1,0,0,0,1,0,1,0,0,0,1,1,0,2
+449,8,"fatigue , depression , body aches , slightly elevated calcium levels , osteopenia",Hyperparathyroidism ,ENDO,1,0,0,0,0,1,0,0,1,0,1,0,1,0,4
+450,7,"growth failure , coarse facial features , hirsutism , organomegaly , joint contractures , urinary excretion of glycosaminoglycan gag fragments",Mucopolysaccharidosis ,METAB,0,1,0,0,0,1,0,0,1,1,0,0,1,0,11
+451,3,"delayed development , seizures , spasticity , protein intolerance",Arginase Deficiency,METAB,0,1,0,0,0,1,0,0,1,1,0,0,1,0,11
+452,1,"intravascular thrombosis , hemorrhagic infarction of the skin , rapidly progressive , vascular collapse , disseminated intravascular coagulation",Purpura Fulminans,HEMAT,0,1,0,0,0,1,0,0,1,0,0,1,1,0,7
+453,2,"infantile spasms , total or partial agenesis of the corpus callosum , ocular abnormalities",Aicardi Syndrome,NEURO,1,0,0,0,0,1,0,0,1,0,0,1,1,0,14
+454,2,"red , macular , spreading rash",Erythema Infectiosum,INFECT,0,1,0,0,0,1,0,1,0,0,1,0,1,0,10
+455,8,"tender lesions , slow steady growth , slightly elevated triglycerides , slightly elevated cholesterol",Primary Dyslipidemias,METAB,0,1,0,0,0,1,0,1,0,0,1,0,1,0,11
+456,4,"problems with social interactions , trouble with verbal , nonverbal communication , repetitive or ritualistic behaviors",Autism / Autism Spectrum Disorder,PSYCH,1,0,0,0,0,1,0,1,0,0,1,0,1,0,18
+457,4,"the teacher mentions that your child has trouble differentiating between the teacher s praise discipline , your child has trouble creating sentences longer than five words for essays often repeats the same word or phrase , when the teacher gives instructions your child echoes them back to him , your child doesn t understand that if a child is frowning with his arms crossed it means he doesn t want to share , when playing sorting games your child has trouble picking out objects that are all the same shape or color , on the playground your child would rather sit by himself read than engage or play with other children , at the beginning of each school year your child has a lot of difficulty getting back in the routine , after summer break your child loses skills he had the previous year",Autism / Autism Spectrum Disorder,PSYCH,1,0,0,0,0,1,0,1,0,0,1,0,1,0,18
+458,3,"when you talk to your child he doesn t listen or even act like he can hear you , if you point at the family dog across the room your child doesn t turn to look at him , your child doesn t like to play house or imagine putting a doll to bed , when your child wants you to retrieve a toy that is out of reach your child does not point at the toy , if you make funny faces at your child he doesn t laugh or react , your child doesn t look you in the eye when you are getting her ready to go out , you ve noticed that your child rocks wiggles his fingers or flaps his hands repetitively , your child has atypically intense or unusual interests like a fascination with baseball or a particular kind of animal",Autism / Autism Spectrum Disorder,PSYCH,0,1,0,0,0,1,0,1,0,0,1,0,1,0,18
+459,8,"tingling finger , numbness finger , mildly edematous , smoker",Thromboangiitis Obliterans ,RHEUM,0,1,0,0,0,1,0,0,1,0,0,1,1,0,20
+460,6,"progressive hearing loss , tinnitis , vertigo , diffuse headache , blurry vision , unsteady or abnormal walk , subcutaneous swelling on face , back , bilateral papilledema , ataxia with bilateral cerebellar signs , bilateral , rounded , well circumscribed masses at both cerebellopontine angles , isointense on t weighted imaging , hyperintense on t weighted imaging , fluid attenuation inversion recovery sequences , with patchy postcontrast enhancement , obstructive hydrocephalus , family history brain neoplasm",Brain Neoplasms,NEURO,0,1,0,0,0,1,0,0,1,0,0,1,0,1,14
+461,10,"crampy abdominal pain , pain worse with movement , febrile , sweaty , fatigued , llq abdominal pain , tenderness , tender on left side of rectal vault , elevated wbc , pain relieved by lying still",Colon Diverticulitis ,GASTRO,0,1,0,0,0,1,0,1,0,0,0,1,0,1,5
+462,9,"recurring skin lesions , minor pain , irritation , focal scarring , epidermal thickening , hyperpigmentation , fluctuant , pus follicular orifices","Furunculosis, Furuncles and Carbuncles",DERM,0,1,0,0,0,1,0,0,1,0,0,1,1,0,2
+463,5,"solitary , asymptomatic lesion on her back , enlarging , multiple , comedo like openings with dark lamellate keratinocyte plugs in a linear distribution over a hypotrophic area , circular , barrel shaped homogenous areas in dark brown shades with keratin plugs",Epidermal Nevi ,DERM,1,0,0,0,0,1,0,1,0,0,1,0,1,0,2
+464,6,"enlarging nodule on neck , pink friable papule on stalk , intermittent bleeding , oral contraceptives",Pyogenic Granuloma,DERM,1,0,0,0,0,1,0,0,1,0,0,1,1,0,2
+465,6,"dyspnea , retrosternal chest pain , overdose , diaphoretic , diffuse piloerection , restlessness , mood alterations , excessive yawning , mydriasis",Opioid Toxicity ,TOXIC ,1,0,0,0,0,1,0,1,0,0,1,0,1,0,23
+466,3,"fever , cough , posttussive emesis , right shoulder pain , right upper chest lobe opacification , cystic lesion in upper lobe of right lung",Lung Abscess,RESP,1,0,0,0,0,1,0,0,1,0,1,0,0,1,19
+467,10,"blistering rash , hand , arm , upper chest , abdomen , tense bullae , excoriated papules , vesicles , erythematous base , clear fluid",Pemphigoid ,DERM,1,0,0,0,0,1,0,0,1,0,0,1,1,0,2
+468,10,"resting tremor , bradykinesia , lead pipe , cogwheel rigidity , postural instability , falls , motor blocks , freezing , short stepped gait , festinating , stooped posture , poor arm swing",Parkinson's Disease ,NEURO,0,1,0,0,0,1,0,1,0,0,1,0,1,0,14
+469,10,"cognitive impairment , sleep disorders , dysautonomia , hyposmia , pain , fatigue , depression",Parkinson's Disease ,NEURO,0,1,0,0,0,1,0,1,0,0,1,0,1,0,14
+470,10,"resting tremor , bradykinesia , lead pipe , cogwheel rigidity , postural instability , falls , motor blocks , freezing , short stepped gait , festinating , stooped posture , poor arm swing , cognitive impairment , sleep disorders , dysautonomia , hyposmia , pain , fatigue , depression",Parkinson's Disease ,NEURO,0,1,0,0,0,1,0,1,0,0,1,0,1,0,14
+471,3,"arm pain , clavicular pain , accidental injury after falling down , restricted arm movement",Clavicular Fractures,ORTHO,1,0,0,0,0,1,0,1,0,0,1,0,1,0,17
+472,8,"upper abdominal pain , fever , nausea , vomiting , liver , spleen are palpable , cloudy orange urine , elevated serum amylase , elevated lipase , elevated triglyceride levels",Acute Pancreatitis,GASTRO,0,1,0,0,0,1,0,0,1,0,1,0,0,1,5
+473,5,"sighing respirations , anxious mood , medical history of asthma , trouble breathing",General Anxiety Disorder,PSYCH,0,1,0,0,0,1,0,1,0,0,1,0,1,0,18
+474,6,"hand paresthesia , progressive forearm pain , pain exacerbated with movement , tender to palpation",Compartment Syndrome,TRAUMA,1,0,0,0,0,1,0,0,1,0,0,1,0,1,24
+475,4,"episodic headaches , right sided weakness , dragging right foot , family history of severe migraine headaches , unstable when standing , unable to perform finger to nose test",Migraine,NEURO,1,0,0,0,0,1,0,1,0,0,0,1,1,0,14
+476,2,"cyanosis , tachypnea , decreased oxygen saturation",Transposition of the Great Arteries ,CARDIO,1,0,0,0,0,1,0,0,1,0,1,0,1,0,1
+477,5,"chest pain , hypertension , hyperhidrosis , exophthalmos , restlessness , high thyroid stimulating antibody , heart block first degree",Graves Disease,ENDO,0,1,0,0,0,1,0,0,1,0,0,1,0,1,4
+478,8,"acute onset , fever , nonfollicular pustules on erythematous bases diffusely spread over face , trunk , axillae , groin , arms , legs , elevated wbc , elevated total neutrophil count , elevated crp , elevated esr , spongiform subcorneal pustules , edema papillary dermis , marked perivascular infiltration of neutrophils , exocytosis of a few eosinophils",Acute Generalized Exanthematous Pustulosis,DERM,1,0,0,0,0,1,0,0,1,0,0,1,1,0,2
+479,6,"chest wall trauma , difficulty breathing",Pneumothorax,RESP,0,1,0,0,0,1,0,0,1,0,1,0,0,1,19
+480,3,"fever , swollen neck , throat infection , rash , cyanosis , mottled skin",Sepsis and Shock,SHOCK,1,0,0,0,0,1,0,1,0,0,1,0,0,1,21
+481,8,"syncope with weakness , shortness of breath , hypotensive , pitting edema legs , calf pain on flexion",Pulmonary Thromboembolism,RESP,0,1,0,0,0,1,0,0,1,0,1,0,0,1,19
+482,8,"syncope with weakness , shortness of breath , hypotensive , pitting edema legs , calf pain on flexion",Pulmonary Thromboembolism,RESP,0,1,0,0,0,1,0,0,1,0,1,0,0,1,19
+483,8,"abdominal pain after eating , weight loss , vomiting , gastroparesis , vitamin b deficiency , abdominal tenderness , dyspnea , sleep disturbance , elevated crp",Median Arcuate Ligament Syndrome,GASTRO,1,0,0,0,0,1,0,0,1,0,0,1,1,0,5
+484,9,"headaches , meninges thick lumpy , clumsiness , forgetful , perception changes , pulsatile tinnitus , communication issues",Head Injury,NEURO,0,1,0,0,0,1,0,1,0,0,0,1,0,1,14
+485,5,"tan patches on trunk , upper arms , freckles axillae , reddish discoloration under tip of thumbnail , tan patches present since birth , enlarged over past years , paroxysmal pain , cold sensitivity involving discolored portion of thumb , macules with smooth borders , axillary freckling , tender red blue nodule under thumbnail",Neurofibromatosis Type 1,NEURO,1,0,0,0,0,1,0,0,1,0,0,1,1,0,14
+486,8,"sudden severe frontal headache , nausea , vomiting , fevers , diplopia , photophobia , ptosis , deviated inferolaterally , dilated pupil , bitemporal hemianopsia , mild bilateral temporal disc pallor , sellar brain mass with suprasellar extension , increased neutrophil count , leukocytosis",Pituitary Tumor Apoplexy,NEURO,0,1,0,0,0,1,0,0,1,0,0,1,0,1,14
+487,9,"swollen legs , distended abdomen",Cirrhosis,HEPATO,0,1,0,0,0,1,0,0,1,0,1,0,1,0,8
+488,9,"swollen legs , distended abdomen , rapid inward pulsations beneath right ear",Constrictive Pericarditis,CARDIO,0,1,0,0,0,1,0,0,1,0,0,1,1,0,1
+489,3,"fever , blisters localized , redness , warm skin , very painful , abrasion , facial , burning sensation , tired and listless",Staphylococcal Scalded Skin Syndrome ,DERM,0,1,0,0,0,1,0,0,1,0,1,0,1,0,2
+490,5,"unable to digest food , intermittent abdominal cramps , bloating , flatulence , greasy stools , tired , pale , floating stools , bulky malodorous stools with oiley droplets , loss of night vision acuity , previous medical history of acute lymphoblastic leukemia",Exocrine Pancreatic Insufficiency,GASTRO,1,0,0,0,0,1,0,0,1,0,0,1,1,0,5
+491,9,"headache , neck pain , vomiting , disorientation",Intracranial HemorrhageÂ ,NEURO,0,1,0,0,0,1,0,0,1,0,1,0,0,1,14
+492,9,"rapidly growing lesions on his face , trunk , axillae ,flexural areas , groin , disseminated violaceous papules , plaques on the face , perianal area , some lesions were confluent , ulcerated , yellowish red to skin colored papules are present on the scalp",Langerhans Cell Histiocytosis Class 1,NEOPL,0,1,0,0,0,1,0,0,1,1,0,0,1,0,12
+493,6,"numbness , tingling , fatigue , lower back pain , tick bite",Lyme Disease,INFECT,1,0,0,0,0,1,0,0,1,0,1,0,1,0,10
+494,9,"blisters on hand , purplish hue , red face , scarring , high iron level , sun sensitivity",Porphyria Cutanea Tarda,METAB,0,1,0,0,0,1,0,0,1,0,0,1,1,0,11
+495,7,"dry mouth , difficulty swallowing , weakness , blurry vision",Botulism,INFECT,0,1,0,0,0,1,0,0,1,0,0,1,1,0,10
+496,3,"fever , malaise , rash face , upper body , ibuprofen , erythema , targetlike lesions , central purpura , bullae on trunk , extremities , ulcerations on lips , tongue , tender , hemorrhagic , conjunctivitis , subconjunctival hemorrhage in eyes , hemorrhagic ulcerations of the eyelids , yellow discharge eyes , elevated interleukin , elevated c reactive protein , generalized aches",Steven-Johnson Syndrome ,DERM,0,1,0,0,0,1,0,0,1,0,1,0,0,1,2
+497,3,"fever , malaise , rash face , upper body , ibuprofen",Steven-Johnson Syndrome ,DERM,0,1,0,0,0,1,0,0,1,0,0,1,0,1,2
+498,3,"intermittent vomiting , soft stools , reduced appetite , unsteady or abnormal walk , developmental regression , pyramidal tract dysfunction , rapid increase in head circumference , frontal bossing , pulsatile anterior fontanelle",Hydrocephalus,NEURO,1,0,0,0,0,1,0,0,1,0,1,0,1,0,14
+499,3,"intermittent vomiting , soft stools , reduced appetite , unsteady or abnormal walk , rapid increase in head circumference",Hydrocephalus,NEURO,1,0,0,0,0,1,0,0,1,0,1,0,1,0,14
+500,10,"fatigue , night sweats , leukocytosis , unsteadiness , splenomegaly , history of hypothyroidism , hyperlipidemia , lyme disease , high thyrotropin level",Leukemia,NEOPL,1,0,0,0,0,1,0,0,1,0,0,1,0,1,12
+501,9,"decreased oral intake , intermittent vomiting , throat discomfort , sensation of food stuck , mass in throat",Esophageal Neoplasms,NEOPL,0,1,0,0,0,1,0,0,1,0,1,0,0,1,12
+502,9,"mental status change , slurred speech , right side weakness , vomiting , unresponsive , heart rate erratic",CVA / Stroke,NEURO,1,0,0,0,0,1,0,1,0,0,1,0,0,1,14
+503,4,"tonic clonic seizures , myoclonic jerks , rare absences",Juvenile Myoclonic Epilepsy,NEURO,0,1,0,0,0,1,0,0,1,0,1,0,1,0,14
+504,8,"altered mental status , migraine headache , disoriented , somnolent , scleral icterus , mild right upper quadrant tenderness , asterixis",Liver Failure,HEPATO,0,1,0,0,0,1,0,0,1,0,0,1,1,0,8
+505,4,"sudden onset severe abdominal pain , nausea , vomiting , diarrhea , fever",Acute Appendicitis,GASTRO,1,0,0,0,0,1,0,1,0,0,1,0,0,1,5
+506,6,"progressive worsening of shortness of breath , wheezing , cough , previous medical history of cold",Asthma,RESP,1,0,0,0,0,1,0,1,0,0,1,0,1,0,19
+507,10,"worsening shortness of breath , increased frequency of coughing , productive cough , green purulent sputum , low grade fever , poor appetite",COPD,RESP,1,0,0,0,0,1,0,1,0,0,1,0,1,0,19
+508,8,"unilateral leg pain , swelling , dilated superficial veins , redness , tenderness",Deep Vein Thrombosis,HEMAT,1,0,0,0,0,1,0,0,1,0,1,0,0,1,7
+509,8,"headaches , impaired vision , fatigue , swollen hands , feet , coarse facial features , bitemporal hemianopsia",Acromegaly,ENDO,0,1,0,0,0,1,0,0,1,0,0,1,1,0,4
+510,9,"chest pain , non radiating substernal chest pressure , diaphoresis , sob , st elevation",Myocardial Infarction / Acute Coronary Syndrome,CARDIO,0,1,0,0,0,1,0,1,0,0,1,0,0,1,1
+511,3,"abdominal pain , watery diarrhea , bloody diarrhea , mild anemia",Hemolytic Uremic Syndrome,NEPHRO,0,1,0,0,0,1,0,0,1,0,0,1,1,0,13
+512,6,"fever , chills , rigors , diarrhea , mildly tachycardic ,mosquito",Malaria,INFECT,0,1,0,0,0,0,1,0,1,0,1,0,0,1,10
+513,8,"severe left sided flank pain radiating to groin , unrelieved by position , nausea , vomiting",Urinary Lithiasis / Nephrolithiasis,NEPHRO,0,1,0,0,0,1,0,1,0,0,1,0,1,0,13
+514,6,"severe headache , fever , photophobia , neck stiffness",Bacterial Meningitis,INFECT,0,1,0,0,0,1,0,0,1,0,1,0,1,0,10
+515,10,"productive cough , fever , crackles , egophony in right lower lung , infiltrate in the right lower lobe",Atypical Pneumonia,RESP,0,1,0,0,0,1,0,1,0,0,1,0,0,1,19
+516,10,"sob , faint , left sided chest pain , worse on deep inspiration , leg swelling , fever",Pulmonary Thromboembolism,RESP,0,1,0,0,0,1,0,0,1,0,1,0,0,1,19
+517,4,"fever , chills , malaise , athralgias , headache , maculopapular rash , wrists , ankles",Rocky Mountain Spotted Fever,INFECT,0,1,0,0,0,1,0,0,1,0,0,1,1,0,10
+518,10,"chronic hypertension , chronic afib , nausea , vomiting , right sided weakness , difficulty speaking , comprehension problems , slurred speech , aphasia ,right arm paralysis",CVA / Stroke,NEURO,0,1,0,0,0,1,0,1,0,0,1,0,0,1,14
+519,9,"cut on hand , trismus , risus sardonicus , painful spasms , intermittent tonic contraction of his skeletal muscles , opisthotonus , board like abdominal wall rigidity , dysphagia , apneic periods , irritability , restlessness , sweating , tachycardia , hyperpyrexia , cardiac arrhythmias , labile hypertension",Tetanus,INFECT,0,1,0,0,0,1,0,0,1,0,1,0,1,0,10
+520,9,"leg mass in calf , palpable lump , increased vascularity",Soft Tissue Neoplasms,NEOPL,1,0,0,0,0,1,0,0,1,0,0,1,1,0,12
+521,10,"lightheaded , nearly faint , low blood pressure , anemia , low sodium , stress , low cortisol , low red blood cell count",Addison's Disease,ENDO,1,0,0,0,0,1,0,0,1,0,0,1,0,1,4
+522,6,"severe headaches , lethargic , stress , vomiting ,photophobia",Bacterial Meningitis,INFECT,0,1,0,0,0,1,0,0,1,0,1,0,1,0,10
+523,6,"sore throat , body aches , nausea , vomiting , fever ,chills , sweats , headache , cough , congestion",Meningococcal Disease,INFECT,1,0,0,0,0,1,0,0,1,0,0,1,0,1,10
+524,6,"fatigued , cold hands , feet , severe headache , rash , pale , unable to concentrate , feeling unwell , redness",Meningococcal Disease,INFECT,0,1,0,0,0,1,0,0,1,0,1,0,0,1,10
+525,9,"non pruritic rash , muscle weakness , difficulty standing , erythematous rash on face , back , neck , violaceous papules on eyelids , joints of fingers , positive antinuclear antibodies , elevated serum creatinine kinase",Dermatomyositis / Polymyositis,RHEUM,1,0,0,0,0,1,0,0,1,0,0,1,1,0,20
+526,6,"fever , dizziness , sinus infections , sound sensitivity , unable to speak , sore throat , cognitive deficits , muscle pain , neck stiffness , touch sensitivity , gastrointestinal issues , depressed , cardiac issues",Chronic Fatigue Syndrome ,NEURO,1,0,0,0,0,1,0,0,1,0,0,1,1,0,14
+527,8,"diabetic , sore on leg , history of asymptomatic lesions on her shins , slow to heal , which are yellow brown with telangiectasias , minimally violaceous borders",Necrobiosis Lipoidica,DERM,1,0,0,0,0,1,0,0,1,0,0,1,1,0,2
+528,10,"word finding difficulty , confusion , mild inappropriate behavior , language impairment , impairment on word picture matching , anomia , rare phonemic paraphasias ,blunted empathy",Primary Progressive Aphasia,NEURO,1,0,0,0,0,1,0,0,1,0,0,1,1,0,14
+529,9,"abdominal pain , hematochezia",Diverticula of the Small Intestine,GASTRO,0,1,0,0,0,1,0,0,1,0,1,0,1,0,5
+530,2,"runny nose , fever , cough , labored breathing , tachypneic , hypoxic",Bronchiolitis,RESP,0,1,0,0,0,1,0,1,0,0,1,0,1,0,19
+531,6,"sore neck , severe headaches , dizziness",Brain Neoplams   ,NEURO,1,0,0,0,0,1,0,0,1,0,0,1,0,1,14
+532,2,"irritability , lethargy , vomited , decreased urine output , febrile , slight bulging anterior fontanel , neck stiffness ,low csf glucose levels",Bacterial Meningitis,INFECT,0,1,0,0,0,1,0,0,1,0,1,0,1,0,10
+533,4,"fever , vomiting , headache , back pain , tachycardia , chills , african american , low bp , low hemoglobin , leukocyte esterase , positive ketones , negative nitrites , low platelet count , high bilirubin , low albumin",Malaria,INFECT,1,0,0,0,0,0,1,0,1,0,1,0,0,1,10
+534,9,"bph , high bp , high lipids , unable to maintain an erection , smoker , obesity",Erectile Dysfunction,ENDO,0,1,0,0,0,1,0,1,0,0,1,0,1,0,4
+535,6,"pneumothorax , scoliosis , hypermobility , elongated fingers",Marfan Syndrome ,RHEUM,0,1,0,0,0,1,0,0,1,0,0,1,1,0,20
+536,7,"abdominal pain , tenderness , nausea , vomiting",Acute Appendicitis,GASTRO,1,0,0,0,0,1,0,1,0,0,1,0,0,1,5
+537,7,"abdominal pain , tenderness , nausea , vomiting , elevated wbc , leukocytosis , positive urinalysis",Acute Appendicitis,GASTRO,1,0,0,0,0,1,0,1,0,0,1,0,0,1,5
+538,3,"frequent fevers , anemia , swollen abdomen",Neuroblastoma,NEOPL,1,0,0,0,0,1,0,0,1,0,0,1,1,0,12
+539,3,"frequent fevers , anemia , swollen abdomen , protruding side",Neuroblastoma,NEOPL,1,0,0,0,0,1,0,0,1,0,0,1,1,0,12
+540,9,"burning pain , numbness foot , loss of sensation knee , foot drop , leg dusky in color , extreme tenderness , absent pulse , previous history stroke",Peripheral Arterial Disease,VASC,0,1,0,0,0,1,0,0,1,0,0,1,0,1,26
+541,10,"melena , sinus tachycardia , renal insufficiency , confusion , right hilar fullness chest",Aortic Aneurysm / Dissection,VASC,1,0,0,0,0,1,0,0,1,0,0,1,0,1,26
+542,8,"diffuse severe pain left side , tachycardic , low wbc , elevated creatinine , tissue hypoxia , accidental injury ,muscle breakdown",Necrotising Fasciitis,INFECT,0,1,0,0,0,1,0,0,1,0,0,1,0,1,10
+543,7,"history of syncope episodes , family history of sudden cardiac death",Brugada Syndrome / Idiopathic Ventricular Fibrillation,CARDIO,0,1,0,0,0,1,0,0,1,0,0,1,1,0,1
+544,3,"joint pain , anemic , vitamin d deficiency",Juvenile Idiopathic Arthritis,RHEUM,0,1,0,0,0,1,0,0,1,0,0,1,1,0,20
+545,3,"joint pain , anemic , vitamin d deficiency , walking difficulty , difficulty raising arms , pain worse in morning , morning stiffness , swollen hands",Juvenile Idiopathic Arthritis,RHEUM,0,1,0,0,0,1,0,0,1,0,1,0,1,0,20
+546,9,"lower abdominal discomfort,constant headache,weight loss,dry cough,tired,scalp irritation,fever,chest tightness,night sweats,neck pain,sore throat,hoarse voice",Giant Cell Arteritis,RHEUM,0,1,0,0,0,1,0,0,1,0,0,1,0,1,20
+547,9,"lower abdominal discomfort,constant headache,weight loss,dry cough,tired,scalp irritation,fever,chest tightness,night sweats,neck pain,sore throat,hoarse voice,deep dry cough,sharp chest pain,shallow breathing,jaw ache,face ache,ear pain",Giant Cell Arteritis,RHEUM,0,1,0,0,0,1,0,0,1,0,0,1,0,1,20
+548,9,"low hemoglobin , low rbc count , low hematocrit , low albumin , elevated platelets , elevated crp , elevated esr , elevated alkaline phosphates , elevated alanine transaminase , elevated monocytes",Giant Cell Arteritis,RHEUM,0,1,0,0,0,1,0,0,1,0,0,1,0,1,20
+549,4,"nausea,stomach ache,overweight",Type 1 Diabetes,ENDO,1,0,0,0,0,1,0,0,1,0,0,1,0,1,4
+550,4,"nausea,stomach ache,overweight,dark spot on neck,increased heart rate,tired,thirsty,vomiting",Type 1 Diabetes,ENDO,1,0,0,0,0,1,0,0,1,0,1,0,0,1,4
+551,3,"vomiting , unable to eat",Viral Meningoencephalitis,INFECT,0,1,0,0,0,1,0,0,1,0,0,1,1,0,10
+552,3,"vomiting , unable to eat , rash",Meningococcal Disease ,INFECT,0,1,0,0,0,1,0,0,1,0,1,0,0,1,10
+553,8,"vertigo , chills , headache",Lyme Disease,INFECT,1,0,1,0,0,1,0,0,1,0,1,0,1,0,10
+554,8,"vertigo , chills , migraines , brain fog , stiff neck , irritable bowel , extreme weakness",Lyme Disease,INFECT,1,0,1,0,0,1,0,0,1,0,1,0,1,0,10
+555,6,"fever , dizziness",Septic Shock,SHOCK,1,0,1,0,0,1,0,1,0,0,0,1,0,1,21
+556,6,"fever , dizziness , diarrhea , vomiting",Sepsis and Shock,SHOCK,1,0,1,0,0,1,0,1,0,0,1,0,0,1,21
+557,6,"fever , dizziness , diarrhea , vomiting , decreased bp , increased heart rate , hypertension",Sepsis and Shock,SHOCK,1,0,1,0,0,1,0,1,0,0,1,0,0,1,21
+558,7,"severe headache , history of migraines , post partum",Intracranial Hemorrhage,NEURO,1,0,1,0,0,1,0,0,1,0,1,0,0,1,14
+559,7,"severe headache , history of migraines , post partum , neck pain , photophobia",Intracranial Hemorrhage,NEURO,1,0,1,0,0,1,0,0,1,0,1,0,0,1,14
+560,4,"hip pain , low bp , high pulse rate , lethargic , elevated esr , unable to walk ,rash",Osteomyelitis and Septic Arthritis,INFECT,0,1,0,0,0,1,0,0,1,0,1,0,1,0,10
+561,4,"hip pain , low bp , high pulse rate , lethargic , elevated esr , unable to walk , neutropenic , rash",Osteomyelitis and Septic Arthritis,INFECT,0,1,0,0,0,1,0,0,1,0,1,0,1,0,10
